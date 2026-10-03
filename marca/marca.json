@@ -25,5 +25,6 @@
     "sinople": "#008F4C"
   },
   "principal": "sinople",
-  "principal_motivo": "El escudo es oro (campo) y gules (banda, cruz y torre). El oro nunca es marca y el gules es el color de las alertas; la plata no sirve. Queda el sinople de las esmeraldas de la corona, que además es el verde de la dehesa de encinas (unas 16.000 ha), la seña de Monesterio y de su jamón."
+  "principal_motivo": "El escudo es oro (campo) y gules (banda, cruz y torre). El oro nunca es marca y el gules es el color de las alertas; la plata no sirve. Queda el sinople de las esmeraldas de la corona, que además es el verde de la dehesa de encinas (unas 16.000 ha), la seña de Monesterio y de su jamón.",
+  "cortina": "escudo"
 }

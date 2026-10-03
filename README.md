@@ -45,6 +45,16 @@ Por qué le encaja a Monesterio:
 
 Está forzado con `--principal sinople` y con el motivo escrito en `marca/marca.json`. En la reunión, el mando enseña otros dos colores girando el matiz.
 
+**Cortina: «El escudo a su sitio»** (`"cortina": "escudo"` en `marca/marca.json`). Se eligió entre cinco en el tablero `../ayuntamiento-monesterio-bocetos/cortinas/index.html`. Es la única vez que la web se mueve sola:
+- solo en la portada y una vez por sesión, con 1,18 s en total;
+- el escudo aparece en el centro sobre la cal;
+- la cal se abre en un círculo con un anillo de oro;
+- el escudo vuela y aterriza encima del de la cabecera.
+
+Se salta con un clic, una tecla o la rueda, no existe con movimiento reducido y, sin GSAP, se quita sola.
+
+**Ojo:** depende del escudo, que está pendiente de confirmar. Si cambia, basta `scripts/escudo.mjs`. Si prefieren no abrir con él, `"cortina": "puerta"` vuelve a la del arco.
+
 ## Mapa de páginas
 
 | Página | Qué tiene |
