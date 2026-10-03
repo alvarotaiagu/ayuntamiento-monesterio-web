@@ -1,0 +1,84 @@
+{
+  "_leeme": "Agenda. Campos: id, fecha (AAAA-MM-DD), hora (opcional), titulo, lugar, nota, ejemplo. Las fiestas de fecha fija de municipio.json (pueblo.fiestas[].fecha_fija) se añaden solas: no hace falta repetirlas aquí. Los de esta maqueta salen de la agenda de monesterio.es y de Monesterio Informa (carteles leídos el 3 de octubre de 2026).",
+  "eventos": [
+    {
+      "id": "pleno-ordinario-3-septiembre",
+      "fecha": "2026-09-03",
+      "hora": "20:30",
+      "titulo": "Pleno ordinario",
+      "nota": "Fiestas locales de 2027, dación de cuentas, informes de la Alcaldía, mociones, ruegos y preguntas."
+    },
+    {
+      "id": "feria-y-fiestas-2026",
+      "fecha": "2026-09-08",
+      "titulo": "Feria y Fiestas, del 8 al 13 de septiembre",
+      "nota": "Pregón de Joaquín Villalba el día 8."
+    },
+    {
+      "id": "dia-del-jamon-2026",
+      "fecha": "2026-09-12",
+      "titulo": "XXXV Día del Jamón",
+      "lugar": "Parque y piscina municipal",
+      "nota": "Degustaciones populares; el recinto de la piscina abre a las 8:00."
+    },
+    {
+      "id": "di-jazz-2026",
+      "fecha": "2026-10-03",
+      "hora": "20:30",
+      "titulo": "IX Festival de Jazz Itinerante «Di Jazz»: Javier Pérez Quartet",
+      "lugar": "Casa de la Cultura",
+      "nota": "Entrada gratuita. Invitaciones en la Casa de la Cultura."
+    },
+    {
+      "id": "viaje-feria-zafra",
+      "fecha": "2026-10-05",
+      "hora": "12:00",
+      "titulo": "Viaje a la Feria Internacional Ganadera de Zafra",
+      "lugar": "Salida desde la nueva parada de autobuses",
+      "nota": "Vuelta a las 20:00. 3 €. Inscripción en la Casa de la Cultura hasta el 2 de octubre."
+    },
+    {
+      "id": "charla-fraudes",
+      "fecha": "2026-10-09",
+      "hora": "11:00",
+      "titulo": "Charla sobre prevención de fraudes, por el Día Internacional de las Personas de Edad",
+      "lugar": "Sala de conferencias de la Casa de la Cultura"
+    },
+    {
+      "id": "dia-mancomunidad-2026",
+      "fecha": "2026-10-11",
+      "titulo": "XLVII Día de la Mancomunidad y Comarca de Tentudía",
+      "lugar": "Bodonal de la Sierra, Plaza de España",
+      "nota": "Autobuses gratuitos de la Mancomunidad; vuelta a las 19:00 y a las 22:00. Inscripción hasta el 7 de octubre."
+    },
+    {
+      "id": "documental-pan-memoria",
+      "fecha": "2026-10-15",
+      "hora": "17:00",
+      "titulo": "Convivencia familiar: documental «El pan de la memoria»",
+      "lugar": "Residencia de Mayores"
+    },
+    {
+      "id": "marcha-cancer-mama-2026",
+      "fecha": "2026-10-18",
+      "hora": "11:30",
+      "titulo": "VIII Marcha Solidaria contra el Cáncer de Mama",
+      "lugar": "De la calle Templarios al Pabellón Multiusos",
+      "nota": "Organiza AOEX. Inscripción en la Casa de la Cultura hasta el 16 de octubre."
+    },
+    {
+      "id": "carrera-solidaria-sevilla",
+      "fecha": "2026-10-25",
+      "titulo": "Viaje a la carrera solidaria «Tus kilómetros nos dan vida»",
+      "lugar": "Parque del Alamillo (Sevilla); salida desde Monesterio",
+      "nota": "Autobús gratuito para las personas inscritas. Inscripción en la Casa de la Cultura hasta el 16 de octubre (685 399 246)."
+    },
+    {
+      "id": "dia-turismo-tentudia",
+      "fecha": "2026-10-30",
+      "titulo": "Día Mundial del Turismo de la Diputación: «De la cueva a las estrellas, el viaje vertical»",
+      "lugar": "Comarca de Tentudía",
+      "nota": "Actividad gratuita."
+    }
+  ]
+}

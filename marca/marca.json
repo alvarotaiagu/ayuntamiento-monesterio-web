@@ -1,0 +1,29 @@
+{
+  "slug": "monesterio",
+  "letra": {
+    "titulares": "Besley",
+    "texto": "Libre Franklin",
+    "google": "family=Besley:ital,wght@0,600;0,700;1,600&family=Libre+Franklin:wght@400;600"
+  },
+  "giros_paleta": [
+    100,
+    -100
+  ],
+  "densidad": "puerta",
+  "colores": {
+    "papel": "#FAF9F5",
+    "superficie": "#FFFFFF",
+    "tinta": "#1A1E1B",
+    "marca": "#008F4C",
+    "oro": "#EAC102",
+    "alerta": "#ED1C24"
+  },
+  "esmaltes": {
+    "gules": "#ED1C24",
+    "oro": "#EAC102",
+    "plata": "#E5E5E5",
+    "sinople": "#008F4C"
+  },
+  "principal": "sinople",
+  "principal_motivo": "El escudo es oro (campo) y gules (banda, cruz y torre). El oro nunca es marca y el gules es el color de las alertas; la plata no sirve. Queda el sinople de las esmeraldas de la corona, que además es el verde de la dehesa de encinas (unas 16.000 ha), la seña de Monesterio y de su jamón."
+}

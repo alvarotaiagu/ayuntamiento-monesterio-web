@@ -1,0 +1,72 @@
+{
+  "_leeme": "Noticias. Campos: id (a-z, 0-9 y guiones), fecha, titulo, resumen, cuerpo (párrafos), imagen (de media/, opcional), imagen_alt, fuente {nombre, url}. Las de esta maqueta son notas de prensa del Ayuntamiento de septiembre y octubre de 2026: su web las publica como imagen, sin texto; aquí van en texto, resumidas y en usted.",
+  "noticias": [
+    {
+      "id": "asfaltado-ramon-y-cajal",
+      "fecha": "2026-10-02",
+      "titulo": "Adjudicado por 92.000 € el asfaltado de varias calles",
+      "resumen": "Avenida Ramón y Cajal, El Chorrito y Las Moreras, desde mediados o finales de octubre.",
+      "cuerpo": [
+        "El Ayuntamiento ha adjudicado a Mezclas y Firmes de Extremadura, S.A., el alquitranado de varias calles por 91.960 €, IVA incluido. Entre otras, la avenida Ramón y Cajal, la barriada de El Chorrito y Las Moreras.",
+        "Las obras empezarán cuando se firme el acta de replanteo; la previsión del concejal de Urbanismo, Antonio José Villalba, es que la maquinaria llegue a mediados o finales de octubre. Mientras tanto, el servicio municipal de obras sigue con el bacheo diario.",
+        "Además, ha terminado el muro y el acerado del cerramiento del colegio El Llano: falta la reja, que fabricará el alumnado de Formación Profesional del IES Maestro Juan Calero. En la barriada de El Cerezo siguen las obras del AEPSA para mejorar aceras y canalizaciones."
+      ],
+      "fuente": { "nombre": "Nota de prensa del Ayuntamiento", "url": "https://monesterio.es/ver.php?pag=11263" }
+    },
+    {
+      "id": "nichos-cementerio",
+      "fecha": "2026-10-01",
+      "titulo": "124 nichos nuevos en el cementerio municipal",
+      "resumen": "Garantizan los enterramientos durante unos seis años. La primera fase estará lista a finales de octubre.",
+      "cuerpo": [
+        "El Ayuntamiento instala 124 nichos prefabricados en el cementerio. Los suministra Memorial Parks, S.L., por 44.851 € más IVA, y los monta el personal municipal en dos fases. La primera estará terminada a finales de octubre.",
+        "Como cada año antes del Día de Difuntos, se refuerzan la limpieza y el mantenimiento del cementerio: este mes trabajan seis personas contratadas para ello, que también pintarán todas sus calles."
+      ],
+      "fuente": { "nombre": "Nota de prensa del Ayuntamiento", "url": "https://monesterio.es/ver.php?pag=11260" }
+    },
+    {
+      "id": "parque-el-tejar-escala",
+      "fecha": "2026-10-01",
+      "titulo": "El alumnado del programa Escala arregla el parque El Tejar",
+      "resumen": "Doce alumnos de jardinería del programa Escala Monesterio II cuidan 32 zonas verdes del pueblo.",
+      "cuerpo": [
+        "El programa de formación y empleo Escala Monesterio II, de jardinería, tiene doce alumnos que trabajan en 32 zonas verdes del pueblo.",
+        "Estos días han renovado el parque El Tejar y la zona de urgencias del Centro de Salud."
+      ],
+      "fuente": { "nombre": "Nota de prensa del Ayuntamiento", "url": "https://monesterio.es/ver.php?pag=11261" }
+    },
+    {
+      "id": "policia-local-coche-electrico",
+      "fecha": "2026-09-29",
+      "titulo": "La Policía Local tendrá un coche eléctrico y tres agentes más",
+      "resumen": "El vehículo, de 45.300 €, lo subvenciona la Diputación de Badajoz con el Plan MOVEM II.",
+      "cuerpo": [
+        "La Diputación de Badajoz subvenciona, con su plan de movilidad MOVEM II, un coche eléctrico para la Policía Local valorado en 45.300 €.",
+        "La plantilla crecerá con tres agentes nuevos, que se esperan para diciembre."
+      ],
+      "fuente": { "nombre": "Nota de prensa del Ayuntamiento", "url": "https://monesterio.es/ver.php?pag=11256" }
+    },
+    {
+      "id": "dia-del-jamon-2026",
+      "fecha": "2026-09-03",
+      "titulo": "El Día del Jamón celebró su 35.ª edición el 12 de septiembre",
+      "resumen": "Fiesta de Interés Turístico de Extremadura desde 2009, dentro de la Feria y Fiestas.",
+      "cuerpo": [
+        "La XXXV edición del Día del Jamón se celebró el sábado 12 de septiembre, en el parque y la piscina municipal, con las degustaciones populares de jamón ibérico de bellota.",
+        "La novedad de este año fue un único punto de venta con la marca «Jamón de Monesterio», en lugar de los puestos de cada empresa. El Ayuntamiento esperaba más de 10.000 visitantes."
+      ],
+      "fuente": { "nombre": "Monesterio Informa", "url": "https://www.bandomovil.com/monesterio/1636233/3" }
+    },
+    {
+      "id": "nuevo-concejal-pp",
+      "fecha": "2026-08-08",
+      "titulo": "Miguel Ángel Martínez Suárez, nuevo concejal del Grupo Popular",
+      "resumen": "Juró el cargo en el Pleno extraordinario del 6 de agosto, que aprobó también el expediente de concesión de la residencia de mayores.",
+      "cuerpo": [
+        "Miguel Ángel Martínez Suárez tomó posesión como concejal del Partido Popular en el Pleno extraordinario del 6 de agosto. Ocupa el puesto de Ana Campos Eltanal, que dejó el acta en junio; el siguiente de la lista renunció.",
+        "En la misma sesión, el Pleno aprobó el expediente para conceder la gestión de la residencia de mayores y un convenio con Mérida y Jerez de los Caballeros para las prácticas de los nuevos agentes de la Policía Local."
+      ],
+      "fuente": { "nombre": "Monesterio Informa", "url": "https://www.bandomovil.com/monesterio/1616440/6" }
+    }
+  ]
+}

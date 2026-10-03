@@ -1,0 +1,2858 @@
+{
+ "_leeme": "Datos del municipio. Lo genera ../ayuntamiento-monesterio-bocetos/_scripts/municipio.mjs; las fuentes de cada dato están en ayuntamiento-monesterio-bocetos/DATOS.md. Lo que no está confirmado lleva \"ejemplo\": true y sale con la etiqueta «Ejemplo».",
+ "slug": "monesterio",
+ "nombre": "Monesterio",
+ "nombre_corto": "Monesterio",
+ "provincia": "Badajoz",
+ "comarca": "Tentudía",
+ "gentilicio": "monesterienses",
+ "habitantes": {
+  "valor": 4245,
+  "fuente": "INE, padrón a 1 de enero de 2025"
+ },
+ "altitud_m": 755,
+ "lema": null,
+ "propuesta": true,
+ "indexar": false,
+ "url": "https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/",
+ "fecha_datos": "2026-10-03",
+ "web_actual": "https://monesterio.es",
+ "contacto": {
+  "direccion": "C/ Templarios, 17",
+  "cp": "06260",
+  "telefono": "924 516 063",
+  "fax": "924 516 061",
+  "correo": "ayuntamiento@monesterio.es",
+  "mapa_consulta": "Ayuntamiento de Monesterio, Calle Templarios 17, 06260 Monesterio, Badajoz"
+ },
+ "horario": {
+  "texto": "Lunes a viernes, de 9:00 a 14:00",
+  "tramos": [
+   {
+    "dias": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "de": "09:00",
+    "a": "14:00"
+   }
+  ],
+  "ejemplo": true
+ },
+ "redes": [],
+ "canal_avisos": {
+  "nombre": "Monesterio Informa",
+  "url": "https://www.bandomovil.com/monesterio",
+  "texto": "El Ayuntamiento publica cada día sus avisos, bandos y noticias en Monesterio Informa, una aplicación gratuita (Bandomóvil) para Android e iPhone.",
+  "otros": []
+ },
+ "plenos_video": null,
+ "sede": {
+  "tipo": "diputacion",
+  "base": "https://sede.monesterio.es",
+  "ent_id": 54,
+  "opc": {
+   "tablon": 268,
+   "perfil": 271
+  },
+  "instancia_general": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10046&asu_mod_cod=10045&codVerif=761D0430FF4D22D3E11D1E2C75188607CFE8F437&tra_cod="
+ },
+ "tablon_autorizado": false,
+ "tablon_max": 40,
+ "hoja": {
+  "id": "",
+  "pestanas": {
+   "avisos": "Avisos",
+   "agenda": "Agenda",
+   "noticias": "Noticias"
+  }
+ },
+ "legal": {
+  "titular": "Ayuntamiento de Monesterio",
+  "nif": "P0608500E",
+  "dir3": "L01060858",
+  "direccion_registro": "C/ Templarios, 17"
+ },
+ "escudo_nota": "Escudo de Wikimedia Commons (Erlenmeyer, CC BY-SA 4.0). No consta su aprobación en el DOE: es el escudo de uso tradicional.",
+ "escudo_credito": {
+  "autor": "Erlenmeyer",
+  "licencia": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Escudo_de_Monesterio_(Badajoz).svg"
+ },
+ "corporacion": {
+  "legislatura": "2023-2027",
+  "nota": "Gobierna el PSOE con mayoría absoluta (8 de 11). Según el acta de constitución del 17 de junio de 2023, el BOP n.º 138 del 20 de julio de 2023 y el aviso municipal del 8 de agosto de 2026.",
+  "grupos": [
+   {
+    "sigla": "PSOE",
+    "nombre": "Partido Socialista Obrero Español",
+    "color": "#C8402A",
+    "trama": "liso",
+    "gobierno": true
+   },
+   {
+    "sigla": "PP",
+    "nombre": "Partido Popular",
+    "color": "#1F5FA8",
+    "trama": "rayas",
+    "gobierno": false
+   }
+  ],
+  "miembros": [
+   {
+    "nombre": "Dolores Vargas Villalba",
+    "grupo": "PSOE",
+    "cargo": "Alcaldesa-Presidenta",
+    "alcalde": true
+   },
+   {
+    "nombre": "Eloy Sánchez Sánchez",
+    "grupo": "PSOE",
+    "cargo": "Primer teniente de alcalde",
+    "delegacion": "Recursos Humanos, Economía, Servicios y Compras"
+   },
+   {
+    "nombre": "María Fernanda Díaz Barriga",
+    "grupo": "PSOE",
+    "cargo": "Segunda teniente de alcalde",
+    "delegacion": "Social, Agricultura y Ganadería"
+   },
+   {
+    "nombre": "José Guillermo Robledo González",
+    "grupo": "PSOE",
+    "cargo": "Tercer teniente de alcalde y portavoz del PSOE",
+    "delegacion": "Empleo, Comercio e Industria"
+   },
+   {
+    "nombre": "Antonio José Villalba Muñoz",
+    "grupo": "PSOE",
+    "cargo": "Concejal delegado",
+    "delegacion": "Urbanismo, Medio Rural, Medio Ambiente, Patrimonio y Obras"
+   },
+   {
+    "nombre": "Manuela Ferreira Delgado",
+    "grupo": "PSOE",
+    "cargo": "Concejala delegada",
+    "delegacion": "Turismo y Cultura"
+   },
+   {
+    "nombre": "Francisco Javier Granadero Rodríguez",
+    "grupo": "PSOE",
+    "cargo": "Concejal delegado",
+    "delegacion": "Deportes y Seguridad Ciudadana"
+   },
+   {
+    "nombre": "María del Mar Megías Pecellín",
+    "grupo": "PSOE",
+    "cargo": "Concejala delegada",
+    "delegacion": "Educación, Juventud e Igualdad"
+   },
+   {
+    "nombre": "Margarita Núñez Sánchez",
+    "grupo": "PP",
+    "cargo": "Concejala"
+   },
+   {
+    "nombre": "Cristina de los Ángeles García Medina",
+    "grupo": "PP",
+    "cargo": "Concejala"
+   },
+   {
+    "nombre": "Miguel Ángel Martínez Suárez",
+    "grupo": "PP",
+    "cargo": "Concejal desde el 6 de agosto de 2026"
+   }
+  ],
+  "secretaria": "Santiago Paz de Castro, secretario-interventor accidental (Junta de Gobierno del 17 de agosto de 2026)"
+ },
+ "alcaldia": {
+  "saluda": "Esta web es la puerta del Ayuntamiento abierta todo el día. Aquí puede hacer sus trámites sin desplazarse, enterarse de lo que pasa en el pueblo y saber a quién dirigirse en cada caso.",
+  "saluda_ejemplo": true
+ },
+ "quien": [
+  {
+   "tema": "Obras, calles, cementerio y medio ambiente",
+   "nombre": "Antonio José Villalba Muñoz",
+   "cargo": "Concejal de Urbanismo, Medio Rural, Medio Ambiente, Patrimonio y Obras",
+   "portada": true
+  },
+  {
+   "tema": "Servicios sociales, mayores y campo",
+   "nombre": "María Fernanda Díaz Barriga",
+   "cargo": "Segunda teniente de alcalde (Social, Agricultura y Ganadería)",
+   "portada": true
+  },
+  {
+   "tema": "Colegios, juventud e igualdad",
+   "nombre": "María del Mar Megías Pecellín",
+   "cargo": "Concejala de Educación, Juventud e Igualdad",
+   "portada": true
+  },
+  {
+   "tema": "Deporte y Policía Local",
+   "nombre": "Francisco Javier Granadero Rodríguez",
+   "cargo": "Concejal de Deportes y Seguridad Ciudadana",
+   "portada": true
+  },
+  {
+   "tema": "Turismo, museos y cultura",
+   "nombre": "Manuela Ferreira Delgado",
+   "cargo": "Concejala de Turismo y Cultura"
+  },
+  {
+   "tema": "Personal, cuentas y compras",
+   "nombre": "Eloy Sánchez Sánchez",
+   "cargo": "Primer teniente de alcalde (Recursos Humanos, Economía, Servicios y Compras)"
+  },
+  {
+   "tema": "Empleo, comercio e industria",
+   "nombre": "José Guillermo Robledo González",
+   "cargo": "Tercer teniente de alcalde (Empleo, Comercio e Industria)"
+  },
+  {
+   "tema": "Todo lo demás",
+   "nombre": "Dolores Vargas Villalba",
+   "cargo": "Alcaldesa"
+  }
+ ],
+ "servicios": [
+  {
+   "nombre": "Ayuntamiento",
+   "nota": "Registro General de lunes a viernes, de 9:00 a 14:00",
+   "direccion": "C/ Templarios, 17",
+   "telefono": "924 516 063",
+   "grupo": "Ayuntamiento"
+  },
+  {
+   "nombre": "Servicio Social de Base",
+   "direccion": "Paseo de Extremadura, 196, 1.ª planta",
+   "telefono": "924 516 509",
+   "horario": "Lunes a viernes, de 9:30 a 13:30",
+   "tramos": [
+    {
+     "dias": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "de": "09:30",
+     "a": "13:30"
+    }
+   ],
+   "grupo": "Ayuntamiento"
+  },
+  {
+   "nombre": "Juzgado de Paz",
+   "telefono": "924 516 071",
+   "grupo": "Ayuntamiento"
+  },
+  {
+   "nombre": "Radio Monesterio, 107.9 FM",
+   "nota": "Emisora municipal",
+   "direccion": "Paseo de Extremadura, 205",
+   "telefono": "924 516 594",
+   "grupo": "Ayuntamiento"
+  },
+  {
+   "nombre": "Policía Local",
+   "nota": "policialocal@monesterio.es",
+   "direccion": "Paseo de Extremadura, 205",
+   "telefono": "618 742 020",
+   "grupo": "Urgencias y seguridad"
+  },
+  {
+   "nombre": "Guardia Civil",
+   "direccion": "C/ Sevilla, 3",
+   "telefono": "924 516 013",
+   "grupo": "Urgencias y seguridad"
+  },
+  {
+   "nombre": "Centro de Salud: cita previa",
+   "nota": "También en el 900 100 737",
+   "direccion": "Urbanización Señor del Paso, s/n",
+   "telefono": "924 516 070",
+   "grupo": "Salud"
+  },
+  {
+   "nombre": "Centro de Salud: urgencias",
+   "nota": "Laborables, de 15:00 a 8:00; fines de semana y festivos, las 24 horas",
+   "direccion": "Urbanización Señor del Paso, s/n",
+   "telefono": "924 516 562",
+   "grupo": "Salud"
+  },
+  {
+   "nombre": "Farmacia García Porras",
+   "direccion": "Paseo de Extremadura, 192",
+   "nota": "Según el Colegio de Farmacéuticos de Badajoz",
+   "grupo": "Salud"
+  },
+  {
+   "nombre": "Farmacia Pardo Camacho",
+   "direccion": "C/ Colón, 3",
+   "nota": "Según el Colegio de Farmacéuticos de Badajoz",
+   "grupo": "Salud"
+  },
+  {
+   "nombre": "Pisos Tutelados",
+   "telefono": "924 516 702",
+   "grupo": "Salud"
+  },
+  {
+   "nombre": "CEIP El Llano",
+   "direccion": "Avda. Ramón y Cajal, 33",
+   "telefono": "924 023 638",
+   "grupo": "Educación"
+  },
+  {
+   "nombre": "IES Maestro Juan Calero",
+   "direccion": "C/ La Noria, 1",
+   "telefono": "924 023 642",
+   "grupo": "Educación"
+  },
+  {
+   "nombre": "Escuela Infantil Municipal",
+   "nota": "De 7:45 a 15:15, o reducido de 9:30 a 13:30. Precios de 2017 (BOP 5586/2017)",
+   "direccion": "Las Espeñas, s/n",
+   "telefono": "648 094 284",
+   "tramos": [
+    {
+     "dias": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "de": "07:45",
+     "a": "15:15"
+    }
+   ],
+   "grupo": "Educación"
+  },
+  {
+   "nombre": "Casa de la Cultura y Universidad Popular",
+   "nota": "Auditorio, Escuela de Música, Centro Local de Idiomas, Nuevo Centro del Conocimiento y Museo del Recuerdo",
+   "direccion": "C/ Templarios, 8",
+   "telefono": "924 516 824",
+   "grupo": "Cultura y juventud"
+  },
+  {
+   "nombre": "Biblioteca Municipal «Cervantes»",
+   "direccion": "Casa de la Cultura, C/ Templarios, 8",
+   "telefono": "685 399 470",
+   "horario": "Lunes a jueves, de 16:30 a 20:30; viernes, de 9:30 a 13:30",
+   "tramos": [
+    {
+     "dias": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "de": "16:30",
+     "a": "20:30"
+    },
+    {
+     "dias": [
+      5
+     ],
+     "de": "09:30",
+     "a": "13:30"
+    }
+   ],
+   "grupo": "Cultura y juventud"
+  },
+  {
+   "nombre": "Espacio para la Convivencia y la Ciudadanía Joven (ECCJ)",
+   "direccion": "Plaza del Pueblo",
+   "telefono": "924 516 855",
+   "horario": "Lunes a viernes, de 18:00 a 21:00 (en verano, de 19:00 a 22:00); sábados, de 11:00 a 14:00",
+   "grupo": "Cultura y juventud"
+  },
+  {
+   "nombre": "Oficina de Turismo",
+   "nota": "En el Museo del Jamón. oitmonesterio@gmail.com",
+   "direccion": "Paseo de Extremadura, 314",
+   "telefono": "924 516 737",
+   "grupo": "Cultura y juventud"
+  },
+  {
+   "nombre": "U.M.D.F. «Antonio Morales Recio» – Las Moreras",
+   "nota": "Formación y desarrollo local",
+   "direccion": "Avda. de Portugal, 29",
+   "telefono": "924 516 636",
+   "grupo": "Empleo y comarca"
+  },
+  {
+   "nombre": "Mancomunidad de Tentudía",
+   "nota": "Consumo (OMIC), Igualdad y Oficina de Gestión Urbanística",
+   "direccion": "Ronda de Segura de León, 7",
+   "telefono": "924 516 108",
+   "horario": "Lunes a viernes, de 8:00 a 15:00",
+   "tramos": [
+    {
+     "dias": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "de": "08:00",
+     "a": "15:00"
+    }
+   ],
+   "grupo": "Empleo y comarca"
+  },
+  {
+   "nombre": "Recogida de basura Puerta a Puerta",
+   "nota": "Desde el 1 de octubre, horario de invierno: el cubo se saca de 20:00 a 22:00",
+   "telefono": "924 149 654",
+   "grupo": "Empleo y comarca"
+  },
+  {
+   "nombre": "CEDECO Tentudía",
+   "nota": "Centro de Desarrollo Comarcal",
+   "telefono": "924 517 193",
+   "grupo": "Empleo y comarca"
+  },
+  {
+   "nombre": "Oficina Comarcal Agraria",
+   "telefono": "924 023 626",
+   "grupo": "Empleo y comarca"
+  },
+  {
+   "nombre": "Oficina Veterinaria",
+   "telefono": "924 023 674",
+   "grupo": "Empleo y comarca"
+  },
+  {
+   "nombre": "Correos",
+   "direccion": "Paseo de Extremadura, 110",
+   "telefono": "924 516 276",
+   "grupo": "Empleo y comarca"
+  }
+ ],
+ "urgencias": [
+  {
+   "nombre": "Emergencias",
+   "telefono": "112"
+  }
+ ],
+ "listin_corto": [
+  "Emergencias",
+  "Policía Local",
+  "Guardia Civil",
+  "Centro de Salud: urgencias"
+ ],
+ "instalaciones": [
+  {
+   "grupo": "Deporte",
+   "items": [
+    {
+     "nombre": "Piscina municipal",
+     "texto": "Reformada en 2026: el vaso grande tiene ahora 1,65 m en la zona más honda, hay rampa para personas con movilidad reducida y depuración nueva. Abre en verano (en 2026, desde el 2 de julio).",
+     "nota": "Los precios se publicaron en el tablón el 1 de julio de 2026."
+    },
+    {
+     "nombre": "Estadio Municipal de Fútbol",
+     "direccion": "Junto al recinto ferial, Paseo de Extremadura"
+    },
+    {
+     "nombre": "Pistas multideportivas de El Tejar",
+     "texto": "Césped renovado en el verano de 2026."
+    }
+   ]
+  },
+  {
+   "grupo": "Alojamiento municipal",
+   "items": [
+    {
+     "nombre": "Albergue municipal «Las Moreras»",
+     "texto": "50 plazas, en el Camino de Santiago por la Vía de la Plata.",
+     "direccion": "Ronda de Segura de León, 3",
+     "telefono": "679 587 435",
+     "nota": "Precios actualizados en marzo de 2026 (edicto en el tablón de la sede)."
+    },
+    {
+     "nombre": "Área de servicio para autocaravanas",
+     "texto": "100 plazas, 6 con luz. Abierta todo el año las 24 horas, salvo del 1 al 15 de septiembre (feria). Estancia máxima de 72 horas.",
+     "direccion": "Recinto Ferial, Paseo de Extremadura (acceso junto al Estadio Municipal)",
+     "precio": "Aparcar y vaciar aguas, gratis. Luz gratis las primeras 48 horas: se pide en la Oficina de Turismo.",
+     "telefono": "924 516 737"
+    }
+   ]
+  }
+ ],
+ "documentos": [
+  {
+   "grupo": "Impuestos",
+   "nota": "Ordenanzas fiscales de los impuestos municipales (BOP de 2022).",
+   "items": [
+    {
+     "titulo": "Ordenanza fiscal reguladora del impuesto sobre vehículos de tracción mecánica",
+     "url": "https://monesterio.es/documentos/20220718123417.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-18"
+    },
+    {
+     "titulo": "Ordenanza fiscal reguladora del impuesto sobre construcciones, instalaciones y obras",
+     "url": "https://monesterio.es/documentos/20220718123118.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-18"
+    },
+    {
+     "titulo": "Ordenanza fiscal reguladora del impuesto sobre bienes inmuebles",
+     "url": "https://monesterio.es/documentos/20220718123514.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-18"
+    },
+    {
+     "titulo": "Impuesto sobre incremento de valor de los terrenos de naturaleza urbana",
+     "url": "https://monesterio.es/documentos/20220718123322.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-18"
+    },
+    {
+     "titulo": "Ordenanza fiscal reguladora del impuesto sobre actividades economicas",
+     "url": "https://monesterio.es/documentos/20220718123027.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-18"
+    },
+    {
+     "titulo": "Impuesto sobre contribuciones especiales",
+     "url": "https://monesterio.es/documentos/20180321173423.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    }
+   ]
+  },
+  {
+   "grupo": "Tasas",
+   "nota": "Ordenanzas fiscales de las tasas (publicadas en 2022).",
+   "items": [
+    {
+     "titulo": "Ordenanza fiscal reguladora de la tasa por expedición de licencias",
+     "url": "https://monesterio.es/documentos/20220717121439.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza municipal reguladora de licencias de actividad, apertura, comunicación ambiental",
+     "url": "https://monesterio.es/documentos/20220717121705.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 3 reguladora de la tasa por cementerios locales y otros servicios fúnebres",
+     "url": "https://monesterio.es/documentos/20220717121848.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 4 reguladora de la tasa de licencias administrativas de autotaxis",
+     "url": "https://monesterio.es/documentos/20220717122157.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 5 reguladora de la tasa por retirada de vehículos mal estacionados",
+     "url": "https://monesterio.es/documentos/20220717122414.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza municipal reguladora de la instalación de veladores en la vía pública",
+     "url": "https://monesterio.es/documentos/20220717122647.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 6 reguladora de la tasa por ocupación de terrenos de uso público",
+     "url": "https://monesterio.es/documentos/20220717122900.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 8 reguladora de la tasa por entrada de vehículos",
+     "url": "https://monesterio.es/documentos/20220717124019.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 9 reguladora de la tasa por instalación de puestos",
+     "url": "https://monesterio.es/documentos/20220717124415.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 10 reguladora de la tasa por ocupación del vuelo de la vía pública",
+     "url": "https://monesterio.es/documentos/20220717125803.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 11 reguladora de la tasa por el servicio de mercado de abastos.",
+     "url": "https://monesterio.es/documentos/20220717125943.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 12 reguladora de la tasa por distribución de agua - modificada",
+     "url": "https://monesterio.es/documentos/20220717130203.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 15 reguladora de la tasa por prestación del servicio de matanzas",
+     "url": "https://monesterio.es/documentos/20220717130310.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 16 reguladora de la tasa por el servicio de publicidad",
+     "url": "https://monesterio.es/documentos/20220717130619.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 22 reguladora de la tasa por documentos que expidan las amdinistraciones",
+     "url": "https://monesterio.es/documentos/20220717130907.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 23 reguladora de la tasa por el servicio de alcantarillado",
+     "url": "https://monesterio.es/documentos/20220717131113.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "De precios públicos por la prestación del servicio de desinfección de vehículos",
+     "url": "https://monesterio.es/documentos/20220717131318.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 25 reguladora de la tasa por ocupación del suelo por cajeros automaticos",
+     "url": "https://monesterio.es/documentos/20220717131534.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 26 reguladora de la tasa por la prestación del servicio de bodas civiles",
+     "url": "https://monesterio.es/documentos/20220717131726.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 27 reguladora de la tasa por aprovechamiento especial del dominio público",
+     "url": "https://monesterio.es/documentos/20220717131929.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 31 reguladora del canon por aprovechamiento urbanístico en suelo no",
+     "url": "https://monesterio.es/documentos/20220717132134.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 36 reguladora de la tasa por actividades administrativas de verificación",
+     "url": "https://monesterio.es/documentos/20220717132407.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 37 reguladora de la tasa por la prestación del servicio de vertidos",
+     "url": "https://monesterio.es/documentos/20220717132726.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 39 reguladora de la tasa por ocupación del dominio público local",
+     "url": "https://monesterio.es/documentos/20220717132902.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    },
+    {
+     "titulo": "Ordenanza fiscal n.º 40 reguladora de la tasa por el uso del pabellón de cristales",
+     "url": "https://monesterio.es/documentos/20220717133032.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-07-17"
+    }
+   ]
+  },
+  {
+   "grupo": "Precios públicos",
+   "nota": "Residencia y centro de día, enseñanzas, publicidad y uso de bienes municipales.",
+   "items": [
+    {
+     "titulo": "Prestación del servicio de centro residencial mixto y centro de día",
+     "url": "https://monesterio.es/documentos/20240125112732.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-14"
+    },
+    {
+     "titulo": "Prestación del servicio de desinfección de vehículos",
+     "url": "https://monesterio.es/documentos/20220814133028.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-14"
+    },
+    {
+     "titulo": "Servicios de publicidad",
+     "url": "https://monesterio.es/documentos/20220814132803.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-14"
+    },
+    {
+     "titulo": "Enseñanzas especiales en establecimientos docentes de esta entidad local",
+     "url": "https://monesterio.es/documentos/20220814132513.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-14"
+    },
+    {
+     "titulo": "Prestación de servicios y utilización de determinados bienes municipales",
+     "url": "https://monesterio.es/documentos/20220814132916.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-14"
+    }
+   ]
+  },
+  {
+   "grupo": "Ordenanzas no fiscales",
+   "nota": "Convivencia, animales, solares, subvenciones y otras (publicadas en 2022).",
+   "items": [
+    {
+     "titulo": "Ordenanza no fiscal reguladora de actividades funerarias y otros servicios",
+     "url": "https://monesterio.es/documentos/20220830114429.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza no fiscal reguladora de la tenencia de animales potencialmente peligrosos",
+     "url": "https://monesterio.es/documentos/20220830114627.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza no fiscal reguladora de la limpieza y vallado de solares",
+     "url": "https://monesterio.es/documentos/20220830115020.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza no fiscal reguladora de las subvenciones para fomento de la inversión,",
+     "url": "https://monesterio.es/documentos/20220830114815.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza no fiscal de policia y buen gobierno",
+     "url": "https://monesterio.es/documentos/20220830115113.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza general reguladora de la concesion de subvenciones",
+     "url": "https://monesterio.es/documentos/20220830115506.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza no fiscal reguladora de estacionamiento de vehículos de personas de movilidad",
+     "url": "https://monesterio.es/documentos/20220830115926.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza municipal reguladora licencia de vado",
+     "url": "https://monesterio.es/documentos/20220830120030.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza municipal sobre tráfico, circulación de vehículos a motor y seguridad via",
+     "url": "https://monesterio.es/documentos/20220830120126.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza municipal de limpieza pública",
+     "url": "https://monesterio.es/documentos/20220830120209.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza reguladora de vertidos a la red municipal de alcantarillado",
+     "url": "https://monesterio.es/documentos/20220830120324.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza municipal de tenencia de animales",
+     "url": "https://monesterio.es/documentos/20220830120531.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza municipal libre acceso a las actividades de servicios y su ejercicio",
+     "url": "https://monesterio.es/documentos/20220830120738.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza municipal reguladora del ejercicio de la venta ambulante",
+     "url": "https://monesterio.es/documentos/20220830120932.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza no fiscal reguladora de tenencia y uso de armas en el t.m. de Monesterio",
+     "url": "https://monesterio.es/documentos/20220830121301.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza municipal sobre gestión de residuos de la construcción y demolición",
+     "url": "https://monesterio.es/documentos/20220830121454.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza municipal reguladora de licencias de actividad y otras declaraciones",
+     "url": "https://monesterio.es/documentos/20220830121743.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza reguladora de las instalaciones y actividades publicitarias",
+     "url": "https://monesterio.es/documentos/20220830130650.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza municipal reguladora de la instalación de veladores en la vía pública",
+     "url": "https://monesterio.es/documentos/20220830130754.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza reguladora de las ayudas municipales asistenciales a particulares",
+     "url": "https://monesterio.es/documentos/20220830131038.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    },
+    {
+     "titulo": "Ordenanza reguladora de la instalación de equipos de energía solar térmica y solar fotovoltaica",
+     "url": "https://monesterio.es/documentos/20220830131141.pdf",
+     "tipo": "pdf",
+     "fecha": "2022-08-30"
+    }
+   ]
+  },
+  {
+   "grupo": "Reglamentos",
+   "nota": "Residencia, instalaciones, consejos y registros municipales.",
+   "items": [
+    {
+     "titulo": "Servicio centro residencial mixto y centro de día de Monesterio, residencia de mayores",
+     "url": "https://monesterio.es/documentos/20240125112253.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento utilización instalaciones Aguafría",
+     "url": "https://monesterio.es/documentos/20180321181158.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Consejo sectorial de desarrollo turístico y empresarial de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321181318.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento de uso y protección de zonas ajardinadas y arbolado viario del pueblo de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321181526.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento regulador del registro municipal de uniones de hecho",
+     "url": "https://monesterio.es/documentos/20180321181659.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento de la junta local de seguridad del municipio de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321181815.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento de régimen interno del mercado municipal de abastos",
+     "url": "https://monesterio.es/documentos/20180321181935.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento del servicio municipal de agua potable",
+     "url": "https://monesterio.es/documentos/20180321182150.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento regulador del registro municipal de asociaciones de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321182249.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento regulador del consejo sectorial de asociaciones de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321182414.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento del archivo municipal de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321182520.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento del registro electrónico del Ayuntamiento de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321182619.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento para el uso de la marca jamón de Monesterio y día del jamón de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321182740.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento regulador del uso y funcionamiento del albergue municipal de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321182846.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento de organización de la escuela municipal de musica de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321182954.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento municipal regulador del uso y funcionamiento de la escuela infantil municipal (guarderia infantil) 0-3 años",
+     "url": "https://monesterio.es/documentos/20180321183102.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento orgánico del consejo de intervención social en Monesterio",
+     "url": "https://monesterio.es/documentos/20180321183153.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento de régimen interior del cementerio municipal de Monesterio",
+     "url": "https://monesterio.es/documentos/20180321183323.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento de régimen interno de la escuela municipal de pintura",
+     "url": "https://monesterio.es/documentos/20180321183416.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento regulador del pabellón de usos múltiples (pabellón de cristales)",
+     "url": "https://monesterio.es/documentos/20180321183656.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Reglamento de participación ciudadana",
+     "url": "https://monesterio.es/documentos/20180321183752.pdf",
+     "tipo": "pdf",
+     "fecha": "2018-03-21"
+    },
+    {
+     "titulo": "Aprobación del Reglamento municipal regulador del uso y funcionamiento de la escuela infantil municipal",
+     "url": "https://monesterio.es/documentos/20140131101329.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-01-31"
+    }
+   ]
+  },
+  {
+   "grupo": "Urbanismo",
+   "nota": "Plan General Municipal (DOE de 23 de junio de 2025) y las Normas Subsidiarias anteriores.",
+   "items": [
+    {
+     "titulo": "Aprobación modificación puntual 11 de las Normas Subsidiarias",
+     "url": "https://monesterio.es/documentos/20130928114240.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-09-28"
+    },
+    {
+     "titulo": "Normas Subsidiarias de planeamiento municipal",
+     "url": "https://monesterio.es/documentos/20130928114133.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-09-28"
+    },
+    {
+     "titulo": "Plan General Municipal de Monesterio",
+     "url": "https://monesterio.es/documentos/20250729123030.pdf",
+     "tipo": "pdf",
+     "fecha": "2025-07-29"
+    }
+   ]
+  },
+  {
+   "grupo": "Archivo municipal",
+   "nota": "Reglamento e inventario del archivo (1893-2006).",
+   "items": [
+    {
+     "titulo": "Anuncio número 8533 - Boletín número 206 - Lunes, 27 de octubre de 2008. Aprobación definitiva del Reglamento del Archivo Municipal",
+     "url": "https://monesterio.es/documentos/20130926180823.pdf",
+     "tipo": "pdf",
+     "fecha": "2008-10-27"
+    },
+    {
+     "titulo": "Inventario del archivo municipal de Monesterio (1893-2006)",
+     "url": "https://monesterio.es/documentos/20130926181012.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-09-26"
+    },
+    {
+     "titulo": "Reglamento del archivo municipal de Monesterio",
+     "url": "https://monesterio.es/documentos/20130926180620.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-09-26"
+    }
+   ]
+  },
+  {
+   "grupo": "Plano de Monesterio",
+   "nota": "Plano callejero (2023).",
+   "items": [
+    {
+     "titulo": "Plano callejero de Monesterio",
+     "url": "https://monesterio.es/documentos/20230420123242.pdf",
+     "tipo": "pdf",
+     "fecha": "2023-04-20"
+    }
+   ]
+  },
+  {
+   "grupo": "Actas de pleno de 2008 a 2017",
+   "nota": "Lo que tenía la web anterior. Las actas desde 2018 están en el tablón de la sede, sección «Acta de Pleno».",
+   "items": [
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 19 de julio de 2013",
+     "url": "https://monesterio.es/documentos/20131025102539.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-07-19"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el 30 de agosto de 2013",
+     "url": "https://monesterio.es/documentos/20140128114752.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-08-30"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 26 de septiembre de 2013",
+     "url": "https://monesterio.es/documentos/20140128114845.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-09-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 28 de junio de 2.013",
+     "url": "https://monesterio.es/documentos/20131025102429.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 30 de abril de 2.013",
+     "url": "https://monesterio.es/documentos/20131025102339.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 26 de febrero de 2.013",
+     "url": "https://monesterio.es/documentos/20131025102248.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 4 de enero de 2.012",
+     "url": "https://monesterio.es/documentos/20131025132724.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 1 de marzo de 2.012",
+     "url": "https://monesterio.es/documentos/20131025132924.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 20 de marzo de 2.012,",
+     "url": "https://monesterio.es/documentos/20131025133012.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria urgente celebrada por el Ayuntamiento Pleno el día 30 de marzo de 2.012",
+     "url": "https://monesterio.es/documentos/20131025133310.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 3 de mayo de 2.012",
+     "url": "https://monesterio.es/documentos/20131025133540.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria y urgente celebrada por el Ayuntamiento Pleno el día 11 de mayo de 2.012",
+     "url": "https://monesterio.es/documentos/20131025133719.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 8 de junio de 2.012",
+     "url": "https://monesterio.es/documentos/20131025135141.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 8 de junio de 2.012",
+     "url": "https://monesterio.es/documentos/20131025184752.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria urgente celebrada por el Ayuntamiento Pleno el día 29 de junio de 2.012",
+     "url": "https://monesterio.es/documentos/20131025184854.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 5 de julio de 2.012,",
+     "url": "https://monesterio.es/documentos/20131025184943.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 31 de agosto de 2.012",
+     "url": "https://monesterio.es/documentos/20131025185024.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 30 de octubre de 2.012",
+     "url": "https://monesterio.es/documentos/20131025185133.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 21 de diciembre de 2.012",
+     "url": "https://monesterio.es/documentos/20131025185237.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-25"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 5 de febrero de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134026.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria y urgente celebrada por el Ayuntamiento Pleno el día 11 de febrero de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134108.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 4 de marzo de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134146.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 29 de abril de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134224.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 4 de junio de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134305.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 2 de julio de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134346.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 17 de julio de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134427.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 2 de septiembre de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134814.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 30 de septiembre de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134856.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 6 de noviembre de 2.008",
+     "url": "https://monesterio.es/documentos/20131026134934.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 21 de noviembre de 2.008",
+     "url": "https://monesterio.es/documentos/20131026135009.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 30 de diciembre de 2.008",
+     "url": "https://monesterio.es/documentos/20131026135046.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 16 de enero de 2.009",
+     "url": "https://monesterio.es/documentos/20131026125413.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 12 de febrero de 2.009",
+     "url": "https://monesterio.es/documentos/20131026125455.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 5 de marzo de 2.009,",
+     "url": "https://monesterio.es/documentos/20131026125537.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 30 de abril de 2.009",
+     "url": "https://monesterio.es/documentos/20131026125633.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 12 de mayo de 2.009",
+     "url": "https://monesterio.es/documentos/20131026125726.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 2 de julio de 2.009",
+     "url": "https://monesterio.es/documentos/20131026125823.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 24 de agosto de 2.009",
+     "url": "https://monesterio.es/documentos/20131026125927.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 5 de noviembre de 2.009",
+     "url": "https://monesterio.es/documentos/20131026130117.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 30 de noviembre de 2.009",
+     "url": "https://monesterio.es/documentos/20131026130159.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 29 de diciembre de 2.009",
+     "url": "https://monesterio.es/documentos/20131026130242.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 1 de febrero de 2.010",
+     "url": "https://monesterio.es/documentos/20131026123516.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 4 de marzo de 2.010",
+     "url": "https://monesterio.es/documentos/20131026123603.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 30 de marzo de 2.010,",
+     "url": "https://monesterio.es/documentos/20131026123656.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 6 de mayo de 2.010,",
+     "url": "https://monesterio.es/documentos/20131026123754.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 14 de julio de 2.010",
+     "url": "https://monesterio.es/documentos/20131026123854.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 1 de septiembre de 2.010",
+     "url": "https://monesterio.es/documentos/20131026123936.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 3 de noviembre de 2.010",
+     "url": "https://monesterio.es/documentos/20131026124029.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria urgente celebrada por el Ayuntamiento Pleno el día 7 de diciembre de 2.010,",
+     "url": "https://monesterio.es/documentos/20131026124130.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 30 de diciembre de 2.010",
+     "url": "https://monesterio.es/documentos/20131026124213.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 27 de enero de 2.011",
+     "url": "https://monesterio.es/documentos/20131026112427.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 3 de marzo de 2.011",
+     "url": "https://monesterio.es/documentos/20131026112517.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 29 de marzo de 2.011,",
+     "url": "https://monesterio.es/documentos/20131026112611.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 26 de abril de 2.011",
+     "url": "https://monesterio.es/documentos/20131026112700.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 4 de mayo de 2.011",
+     "url": "https://monesterio.es/documentos/20131026112823.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 8 de junio de 2.011",
+     "url": "https://monesterio.es/documentos/20131026121727.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria-constitutiva celebrada por el Ayuntamiento Pleno el día 11 de junio de 2.011",
+     "url": "https://monesterio.es/documentos/20131026122204.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 1 de julio de 2.011",
+     "url": "https://monesterio.es/documentos/20131026122249.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 1 de septiembre de 2.011",
+     "url": "https://monesterio.es/documentos/20131026122346.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 24 de octubre de 2.011",
+     "url": "https://monesterio.es/documentos/20131026122426.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 3 de noviembre de 2.011",
+     "url": "https://monesterio.es/documentos/20131026122514.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 25 de noviembre de 2.011",
+     "url": "https://monesterio.es/documentos/20131026122558.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 7 de diciembre de 2.011",
+     "url": "https://monesterio.es/documentos/20131026122639.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-10-26"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 26 de diciembre de 2013",
+     "url": "https://monesterio.es/documentos/20140311172451.pdf",
+     "tipo": "pdf",
+     "fecha": "2013-12-26"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 26 de noviembre de 2.013",
+     "url": "https://monesterio.es/documentos/20140128123143.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-01-28"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 7 de noviembre de 2.013",
+     "url": "https://monesterio.es/documentos/20140128122244.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-01-28"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 28 de febrero de 2014",
+     "url": "https://monesterio.es/documentos/20140522174323.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-02-28"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 3 de julio de 2014",
+     "url": "https://monesterio.es/documentos/20141002134323.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-07-03"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 25 de abril de 2.014",
+     "url": "https://monesterio.es/documentos/20140712120218.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-07-12"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 29 de abril de 2.014",
+     "url": "https://monesterio.es/documentos/20140712123018.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-07-12"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 2 de septiembre de 2014",
+     "url": "https://monesterio.es/documentos/20141028133505.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-09-02"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 5 de noviembre de 2014",
+     "url": "https://monesterio.es/documentos/20150119131943.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-11-05"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 11 de noviembre de 2014",
+     "url": "https://monesterio.es/documentos/20150119133625.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-11-11"
+    },
+    {
+     "titulo": "Acta de la sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 23 de octubre de 2",
+     "url": "https://monesterio.es/documentos/20141122104551.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-11-22"
+    },
+    {
+     "titulo": "Acta de la sesión ordinaria celebrada por el Ayuntamiento Pleno el día 29 de diciembre de 2014",
+     "url": "https://monesterio.es/documentos/20150309103434.pdf",
+     "tipo": "pdf",
+     "fecha": "2014-12-29"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 5 de marzo de 2015",
+     "url": "https://monesterio.es/documentos/20150510122704.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-03-05"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 28 de abril de 2015",
+     "url": "https://monesterio.es/documentos/20150510124124.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-04-28"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 30 de junio de 2015",
+     "url": "https://monesterio.es/documentos/20150806104121.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-06-30"
+    },
+    {
+     "titulo": "Sesión extraordinaria y especial celebrada por el Ayuntamiento en Pleno para su constitución de 3 de julio 2015",
+     "url": "https://monesterio.es/documentos/20150806104556.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-07-03"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 7 de mayo de 2.015",
+     "url": "https://monesterio.es/documentos/20150706131802.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-07-06"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento en Pleno el día 28 de julio de 2015",
+     "url": "https://monesterio.es/documentos/20150806105924.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-07-28"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento en Pleno el día 1 de septiembre de 2.015",
+     "url": "https://monesterio.es/documentos/20151028120350.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-10-28"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 24 de noviembre de 2015",
+     "url": "https://monesterio.es/documentos/20151217132654.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-11-24"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 2 de diciembre de 2015",
+     "url": "https://monesterio.es/documentos/20151217132823.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-12-02"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 23 de diciembre de 2015",
+     "url": "https://monesterio.es/documentos/20160120131631.pdf",
+     "tipo": "pdf",
+     "fecha": "2015-12-23"
+    },
+    {
+     "titulo": "Sesión extraordinaria y urgente celebrada por el Ayuntamiento Pleno el día 29 de enero de 2016",
+     "url": "https://monesterio.es/documentos/20160321134902.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-01-29"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 29 de febrero de 2016",
+     "url": "https://monesterio.es/documentos/20160321135257.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-02-29"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 1 de julio de 2016",
+     "url": "https://monesterio.es/documentos/20160908104343.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-07-01"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 31 de mayo de 2016",
+     "url": "https://monesterio.es/documentos/20160803194026.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-08-03"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 29 de abril de 2016",
+     "url": "https://monesterio.es/documentos/20160803193735.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-08-03"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 2 de septiembre de 2016",
+     "url": "https://monesterio.es/documentos/20161108174727.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-09-02"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 7 de octubre de 2016",
+     "url": "https://monesterio.es/documentos/20161104181201.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-10-07"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 3 de noviembre de 2016",
+     "url": "https://monesterio.es/documentos/20161122174411.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-11-03"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 21 de noviembre de 2016",
+     "url": "https://monesterio.es/documentos/20161219185602.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-12-19"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 1 de diciembre de 2016",
+     "url": "https://monesterio.es/documentos/20161219185836.pdf",
+     "tipo": "pdf",
+     "fecha": "2016-12-19"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 30 de enero de 2017",
+     "url": "https://monesterio.es/documentos/20170629183332.pdf",
+     "tipo": "pdf",
+     "fecha": "2017-01-30"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 3 de marzo de 2017",
+     "url": "https://monesterio.es/documentos/20170629183734.pdf",
+     "tipo": "pdf",
+     "fecha": "2017-03-03"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 28 de diciembre de 2016",
+     "url": "https://monesterio.es/documentos/20170305122329.pdf",
+     "tipo": "pdf",
+     "fecha": "2017-03-05"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 23 de diciembre de 2016",
+     "url": "https://monesterio.es/documentos/20170305112304.pdf",
+     "tipo": "pdf",
+     "fecha": "2017-03-05"
+    },
+    {
+     "titulo": "Sesión extraordinaria celebrada por el Ayuntamiento Pleno el día 11 de abril de 2017",
+     "url": "https://monesterio.es/documentos/20170629183850.pdf",
+     "tipo": "pdf",
+     "fecha": "2017-04-11"
+    },
+    {
+     "titulo": "Sesión ordinaria celebrada por el Ayuntamiento Pleno el día 8 de mayo de 2017",
+     "url": "https://monesterio.es/documentos/20170629184124.pdf",
+     "tipo": "pdf",
+     "fecha": "2017-05-08"
+    }
+   ]
+  }
+ ],
+ "tramites": {
+  "atajos": [
+   {
+    "nombre": "Volante de empadronamiento",
+    "nota": "Con certificado digital o Cl@ve",
+    "opc": 48
+   },
+   {
+    "nombre": "Escribir al Ayuntamiento",
+    "nota": "Registro de entrada, a cualquier hora",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10046&asu_mod_cod=10045&codVerif=761D0430FF4D22D3E11D1E2C75188607CFE8F437&tra_cod="
+   },
+   {
+    "nombre": "Licencia de obra",
+    "nota": "Impreso para obras de edificación",
+    "url": "https://monesterio.es/documentos/20231019184941.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Escuela Infantil",
+    "nota": "Preinscripción para el curso que viene",
+    "url": "https://monesterio.es/documentos/20260427184638.pdf",
+    "tipo": "pdf"
+   }
+  ],
+  "temas": [
+   {
+    "nombre": "Vivir aquí",
+    "nota": "Padrón y certificados",
+    "icono": "casa",
+    "tramites": [
+     {
+      "nombre": "Volante de empadronamiento",
+      "opc": 48
+     },
+     {
+      "nombre": "Certificado de empadronamiento",
+      "opc": 49
+     },
+     {
+      "nombre": "Empadronarse (impreso)",
+      "url": "https://monesterio.es/documentos/20130925115454.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "nombre": "Cambiar su domicilio en el padrón",
+      "opc": 57
+     },
+     {
+      "nombre": "Cambiar sus datos del padrón",
+      "opc": 56
+     }
+    ]
+   },
+   {
+    "nombre": "Casa, obras y negocios",
+    "nota": "Licencias, comunicaciones, actividades",
+    "icono": "obra",
+    "tramites": [
+     {
+      "nombre": "Obra menor: comunicación previa",
+      "url": "https://monesterio.es/documentos/20231019184833.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "nombre": "Obra mayor: licencia de obras",
+      "url": "https://monesterio.es/documentos/20231019184941.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "nombre": "Licencia de primera ocupación",
+      "url": "https://monesterio.es/documentos/20231019185012.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "nombre": "Abrir un negocio: licencia de actividad",
+      "url": "https://monesterio.es/documentos/20230701104538.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "nombre": "Presentar lo de obras en la sede",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10049&asu_mod_cod=10048&codVerif=7128F8371C71899586CA4F82E153B3D8333A705E&tra_cod="
+     }
+    ]
+   },
+   {
+    "nombre": "Pagos e impuestos",
+    "nota": "Autoliquidaciones, datos bancarios, catastro",
+    "icono": "recibo",
+    "tramites": [
+     {
+      "nombre": "Dar sus datos bancarios (alta de terceros)",
+      "url": "https://monesterio.es/documentos/20170818184113.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "nombre": "Declaración catastral",
+      "url": "https://monesterio.es/documentos/20210525165937.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "nombre": "Escribir a Tesorería",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10058&asu_mod_cod=10057&codVerif=0D0C4494A47B6D4CAB3FE41FD5C4D308FE3DC117&tra_cod="
+     },
+     {
+      "nombre": "Escribir a Gestión Presupuestaria",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10055&asu_mod_cod=10054&codVerif=DD5BE1B9C8E40A13EEBADAF5BFDCCBEF0F0913F5&tra_cod="
+     }
+    ]
+   },
+   {
+    "nombre": "Familia, mayores y cultura",
+    "nota": "Escuela Infantil, servicios sociales, cursos",
+    "icono": "familia",
+    "tramites": [
+     {
+      "nombre": "Escuela Infantil: preinscripción",
+      "url": "https://monesterio.es/documentos/20260427184638.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "nombre": "Escuela Infantil: matrícula",
+      "url": "https://monesterio.es/documentos/20260427185226.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "nombre": "Escribir al Servicio Social de Base",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10070&asu_mod_cod=10069&codVerif=F2C657BA3E2746271CBC5E8BF0EFF0D748ADC97C&tra_cod="
+     },
+     {
+      "nombre": "Cursos y actividades: escribir a Cultura",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10083&asu_mod_cod=10082&codVerif=85537201DD02F583856E3390068BC9BA2C073C83&tra_cod="
+     }
+    ]
+   },
+   {
+    "nombre": "Hablar con el Ayuntamiento",
+    "nota": "Solicitudes, quejas y avisos",
+    "icono": "mensaje",
+    "tramites": [
+     {
+      "nombre": "Cualquier solicitud (registro general)",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10046&asu_mod_cod=10045&codVerif=761D0430FF4D22D3E11D1E2C75188607CFE8F437&tra_cod="
+     },
+     {
+      "nombre": "Escribir a la Alcaldía",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10073&asu_mod_cod=10072&codVerif=6A3C2F2E9BF84453DEC1C40C4DF71087EB4B3617&tra_cod="
+     },
+     {
+      "nombre": "Escribir a la Policía Local",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10061&asu_mod_cod=10060&codVerif=6108507B77867756C9270CBAC2DC971962CD0FFE&tra_cod="
+     },
+     {
+      "nombre": "Empleo municipal: escribir a Personal",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10077&asu_mod_cod=10076&codVerif=EE37E9455C908DBD5C630647ABB9045671AA9127&tra_cod="
+     }
+    ]
+   }
+  ],
+  "momentos": [
+   {
+    "nombre": "Me vengo a vivir aquí",
+    "nota": "Lo que conviene hacer las primeras semanas.",
+    "pasos": [
+     {
+      "texto": "Empadronarme: rellenar el impreso",
+      "url": "https://monesterio.es/documentos/20130925115454.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "texto": "Entregarlo en el registro del Padrón (sede) o en el Ayuntamiento",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10052&asu_mod_cod=10051&codVerif=C786F739D588FFE1890E9C836798A8981DB25171&tra_cod="
+     },
+     {
+      "texto": "Dar mis datos bancarios para los recibos",
+      "url": "https://monesterio.es/documentos/20170818184113.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "texto": "Apuntarme a los avisos de Monesterio Informa",
+      "url": "https://www.bandomovil.com/monesterio"
+     }
+    ]
+   },
+   {
+    "nombre": "Voy a hacer obra",
+    "nota": "Según el tamaño de la obra, un impreso u otro.",
+    "pasos": [
+     {
+      "texto": "Obra pequeña: comunicación previa",
+      "url": "https://monesterio.es/documentos/20231019184833.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "texto": "Obra mayor: licencia de obras",
+      "url": "https://monesterio.es/documentos/20231019184941.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "texto": "Presentarlo en el registro de Urbanismo",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10049&asu_mod_cod=10048&codVerif=7128F8371C71899586CA4F82E153B3D8333A705E&tra_cod="
+     },
+     {
+      "texto": "Al terminar: comunicar el final de la obra",
+      "url": "https://monesterio.es/documentos/20231019185741.pdf",
+      "tipo": "pdf"
+     }
+    ]
+   },
+   {
+    "nombre": "Voy a abrir un negocio",
+    "nota": "Licencia o comunicación, según la actividad.",
+    "pasos": [
+     {
+      "texto": "Actividad con licencia o autorización ambiental",
+      "url": "https://monesterio.es/documentos/20230701104538.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "texto": "Cambio de titular o de uso: comunicación previa",
+      "url": "https://monesterio.es/documentos/20250919122046.pdf",
+      "tipo": "pdf"
+     },
+     {
+      "texto": "Presentarlo en el registro de Urbanismo",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10049&asu_mod_cod=10048&codVerif=7128F8371C71899586CA4F82E153B3D8333A705E&tra_cod="
+     },
+     {
+      "texto": "Para dudas de empleo y empresa: Desarrollo Local",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10067&asu_mod_cod=10066&codVerif=190347000E843C3591B298B64DD4A0DE340A251F&tra_cod="
+     }
+    ]
+   },
+   {
+    "nombre": "Ha pasado algo en mi calle",
+    "nota": "Un bache, una farola, un vehículo mal aparcado.",
+    "pasos": [
+     {
+      "texto": "Si es urgente, llamar a la Policía Local: 618 742 020"
+     },
+     {
+      "texto": "Dejarlo por escrito a la Policía Local",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10061&asu_mod_cod=10060&codVerif=6108507B77867756C9270CBAC2DC971962CD0FFE&tra_cod="
+     },
+     {
+      "texto": "Una obra o un desperfecto: escribir a Fomento",
+      "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10064&asu_mod_cod=10063&codVerif=EF5000797136D8B0F63648BCD3132094E6A2B1F9&tra_cod="
+     },
+     {
+      "texto": "Emergencias: 112"
+     }
+    ]
+   }
+  ],
+  "sinonimos": {
+   "empadronarme": [
+    "empadronamiento",
+    "empadronarse",
+    "padron"
+   ],
+   "empadronar": [
+    "empadronamiento",
+    "padron"
+   ],
+   "censo": [
+    "padron"
+   ],
+   "volante": [
+    "empadronamiento"
+   ],
+   "certificado": [
+    "certificado",
+    "empadronamiento"
+   ],
+   "mudanza": [
+    "domicilio"
+   ],
+   "cambio de casa": [
+    "domicilio"
+   ],
+   "obra": [
+    "obra",
+    "obras",
+    "urbanismo"
+   ],
+   "obras": [
+    "obras",
+    "urbanismo"
+   ],
+   "reforma": [
+    "obra menor",
+    "obras"
+   ],
+   "licencia": [
+    "licencia"
+   ],
+   "tejado": [
+    "obra menor"
+   ],
+   "escombros": [
+    "residuos"
+   ],
+   "habitabilidad": [
+    "habitabilidad"
+   ],
+   "parcela": [
+    "parcelacion",
+    "fincas"
+   ],
+   "finca": [
+    "fincas",
+    "rustica"
+   ],
+   "campo": [
+    "rustica"
+   ],
+   "negocio": [
+    "actividad"
+   ],
+   "bar": [
+    "actividad"
+   ],
+   "tienda": [
+    "actividad"
+   ],
+   "empresa": [
+    "actividad",
+    "desarrollo local",
+    "proveedor"
+   ],
+   "factura": [
+    "factura"
+   ],
+   "proveedor": [
+    "proveedor"
+   ],
+   "cuenta": [
+    "bancaria",
+    "terceros"
+   ],
+   "banco": [
+    "terceros",
+    "bancaria"
+   ],
+   "domiciliar": [
+    "terceros"
+   ],
+   "recibo": [
+    "tesoreria",
+    "terceros"
+   ],
+   "pagar": [
+    "autoliquidacion",
+    "tesoreria"
+   ],
+   "impuesto": [
+    "autoliquidacion",
+    "tesoreria"
+   ],
+   "ibi": [
+    "catastral",
+    "tesoreria"
+   ],
+   "catastro": [
+    "catastral"
+   ],
+   "guarderia": [
+    "escuela infantil"
+   ],
+   "escuela infantil": [
+    "escuela infantil"
+   ],
+   "niños": [
+    "escuela infantil"
+   ],
+   "matricula": [
+    "escuela infantil"
+   ],
+   "ayuda": [
+    "servicio social"
+   ],
+   "servicios sociales": [
+    "servicio social"
+   ],
+   "dependencia": [
+    "servicio social"
+   ],
+   "mayores": [
+    "servicio social"
+   ],
+   "curso": [
+    "cultura"
+   ],
+   "cursos": [
+    "cultura"
+   ],
+   "actividades": [
+    "cultura"
+   ],
+   "radio": [
+    "radio"
+   ],
+   "queja": [
+    "alcaldia",
+    "administracion general"
+   ],
+   "reclamar": [
+    "administracion general"
+   ],
+   "solicitud": [
+    "administracion general",
+    "instancia"
+   ],
+   "instancia": [
+    "instancia",
+    "administracion general"
+   ],
+   "policia": [
+    "policia"
+   ],
+   "multa": [
+    "policia"
+   ],
+   "coche": [
+    "policia"
+   ],
+   "bache": [
+    "fomento",
+    "policia"
+   ],
+   "farola": [
+    "fomento"
+   ],
+   "calle": [
+    "fomento",
+    "policia"
+   ],
+   "empleo": [
+    "personal"
+   ],
+   "trabajo": [
+    "personal"
+   ],
+   "oposicion": [
+    "personal"
+   ],
+   "bolsa": [
+    "personal"
+   ]
+  },
+  "todos": [
+   {
+    "nombre": "Certificado de empadronamiento",
+    "opc": 49
+   },
+   {
+    "nombre": "Volante de empadronamiento",
+    "opc": 48
+   },
+   {
+    "nombre": "Consultar su hoja padronal",
+    "opc": 47
+   },
+   {
+    "nombre": "Padrón: cambiar sus datos personales",
+    "opc": 56
+   },
+   {
+    "nombre": "Padrón: cambiar su domicilio",
+    "opc": 57
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Administración General",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10046&asu_mod_cod=10045&codVerif=761D0430FF4D22D3E11D1E2C75188607CFE8F437&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Alcaldía",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10073&asu_mod_cod=10072&codVerif=6A3C2F2E9BF84453DEC1C40C4DF71087EB4B3617&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Cultura",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10083&asu_mod_cod=10082&codVerif=85537201DD02F583856E3390068BC9BA2C073C83&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Desarrollo Local",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10067&asu_mod_cod=10066&codVerif=190347000E843C3591B298B64DD4A0DE340A251F&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Fomento",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10064&asu_mod_cod=10063&codVerif=EF5000797136D8B0F63648BCD3132094E6A2B1F9&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Gestión Presupuestaria",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10055&asu_mod_cod=10054&codVerif=DD5BE1B9C8E40A13EEBADAF5BFDCCBEF0F0913F5&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Padrón",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10052&asu_mod_cod=10051&codVerif=C786F739D588FFE1890E9C836798A8981DB25171&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Personal",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10077&asu_mod_cod=10076&codVerif=EE37E9455C908DBD5C630647ABB9045671AA9127&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Policía Local",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10061&asu_mod_cod=10060&codVerif=6108507B77867756C9270CBAC2DC971962CD0FFE&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Radio Municipal",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10086&asu_mod_cod=10085&codVerif=0CE2E7B3A6D34A19970353D1EEFDA7C6F789967A&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Registro General del Ayuntamiento",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10043&asu_mod_cod=10012&codVerif=083EB401B644D08E6E1310B18A108651C41DFE80&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Secretaría",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10080&asu_mod_cod=10079&codVerif=3B3C614F2928BD34CAF341C44DFC4B06CA353F6C&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Servicio Social de Base",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10070&asu_mod_cod=10069&codVerif=F2C657BA3E2746271CBC5E8BF0EFF0D748ADC97C&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Tesorería",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10058&asu_mod_cod=10057&codVerif=0D0C4494A47B6D4CAB3FE41FD5C4D308FE3DC117&tra_cod="
+   },
+   {
+    "nombre": "Escrito al Ayuntamiento: Urbanismo",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10049&asu_mod_cod=10048&codVerif=7128F8371C71899586CA4F82E153B3D8333A705E&tra_cod="
+   },
+   {
+    "nombre": "Darse de alta como proveedor",
+    "url": "https://sede.monesterio.es/sede/fichaInformativa.do?asu_cod=10089&asu_mod_cod=10079&codVerif=6FF5C5BCDE799C922BDF29B584CBF72B7B334D6A&tra_cod="
+   },
+   {
+    "nombre": "Proveedores: registrar una factura",
+    "opc": 103
+   },
+   {
+    "nombre": "Proveedores: consultar sus facturas",
+    "opc": 20
+   },
+   {
+    "nombre": "Proveedores: cambiar sus datos",
+    "opc": 25
+   },
+   {
+    "nombre": "Proveedores: dar de alta una cuenta bancaria",
+    "url": "https://sede.monesterio.es/sede/tramitacionElectronica.do?asu_mod_cod=10030&asu_cod=10033&asunto=10033&aplcorreo=4"
+   },
+   {
+    "nombre": "Pedir un certificado (impreso)",
+    "url": "https://monesterio.es/documentos/20130925103713.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Instancia o solicitud general (impreso)",
+    "url": "https://monesterio.es/documentos/20130925102851.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Padrón: cambio de datos personales (impreso)",
+    "url": "https://monesterio.es/documentos/20130925115610.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Padrón: cambio de domicilio (impreso)",
+    "url": "https://monesterio.es/documentos/20130925115659.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Empadronarse (impreso)",
+    "url": "https://monesterio.es/documentos/20130925115454.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Alta de terceros: sus datos bancarios (impreso)",
+    "url": "https://monesterio.es/documentos/20170818184113.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Tasa por expedir documentos: autoliquidación",
+    "url": "https://monesterio.es/documentos/20130928124922.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Cédula catastral: autoliquidación",
+    "url": "https://monesterio.es/documentos/20130928125009.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Certificado de empadronamiento: autoliquidación",
+    "url": "https://monesterio.es/documentos/20130928125052.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Cuando el Ayuntamiento es el sujeto pasivo (impreso)",
+    "url": "https://monesterio.es/documentos/20130928125126.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Declaración catastral (modelo)",
+    "url": "https://monesterio.es/documentos/20210525165937.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Negocio: cambio de titular, ampliación o cambio de uso (comunicación previa)",
+    "url": "https://monesterio.es/documentos/20250919122046.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Licencia de actividad o autorización ambiental",
+    "url": "https://monesterio.es/documentos/20230701104538.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Escuela Infantil: preinscripción",
+    "url": "https://monesterio.es/documentos/20260427184638.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Escuela Infantil: matrícula",
+    "url": "https://monesterio.es/documentos/20260427185226.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Calificación rústica",
+    "url": "https://monesterio.es/documentos/20231019185502.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Comunicar el final de una obra",
+    "url": "https://monesterio.es/documentos/20231019185741.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Obras: instancia general",
+    "url": "https://monesterio.es/documentos/20231019184802.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Cédula urbanística: pedir información",
+    "url": "https://monesterio.es/documentos/20231019185058.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Licencia de división del suelo y de edificaciones",
+    "url": "https://monesterio.es/documentos/20231019185407.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Certificado de situación asimilada a fuera de ordenación",
+    "url": "https://monesterio.es/documentos/20231019185635.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Licencia de obras de edificación, construcción e instalaciones",
+    "url": "https://monesterio.es/documentos/20231019184941.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Certificado de identidad de fincas",
+    "url": "https://monesterio.es/documentos/20231019185236.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Actuación disconforme: licencia de primera ocupación",
+    "url": "https://monesterio.es/documentos/20231019185534.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Actuación disconforme: solicitud",
+    "url": "https://monesterio.es/documentos/20231020130708.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Obra menor: comunicación previa y autoliquidación de la tasa, el ICIO y los vertidos",
+    "url": "https://monesterio.es/documentos/20231019184833.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Cédula de habitabilidad de nueva construcción",
+    "url": "https://monesterio.es/documentos/20231019185126.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Tasa de residuos de construcción y demolición: autoliquidación",
+    "url": "https://monesterio.es/documentos/20231019185436.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Tasa de residuos: autoliquidación",
+    "url": "https://monesterio.es/documentos/20231019185708.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Pedir un certificado o informe urbanístico",
+    "url": "https://monesterio.es/documentos/20231019184650.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Licencia de primera ocupación o utilización",
+    "url": "https://monesterio.es/documentos/20231019185012.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Licencia de parcelación",
+    "url": "https://monesterio.es/documentos/20231019185304.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Devolución de una fianza",
+    "url": "https://monesterio.es/documentos/20231019185604.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Actividad inocua: comunicación",
+    "url": "https://monesterio.es/documentos/20231019184914.pdf",
+    "tipo": "pdf"
+   },
+   {
+    "nombre": "Renovar la cédula de habitabilidad",
+    "url": "https://monesterio.es/documentos/20231019185149.pdf",
+    "tipo": "pdf"
+   }
+  ]
+ },
+ "pueblo": {
+  "entradilla": "En Sierra Morena, en la Vía de la Plata y en la puerta de Extremadura: tierra de dehesa, de jamón ibérico y de pintores.",
+  "historia": [
+   "Por Monesterio pasa desde hace dos mil años la Vía de la Plata. En época romana el pueblo se llamaba Curiga: lo atestiguan una inscripción, hoy en el Centro de Interpretación de los Caminos Jacobeos, y las columnas, sillares y cornisas romanas de la fachada de la iglesia.",
+   "Tras la toma de Montemolín, hacia 1247, la zona pasó a la Orden de Santiago, que estuvo aquí hasta 1875. En el siglo XIV Monesterio ya era encomienda de la Orden.",
+   "Hacia 1573 la Corona la separó de la Orden y la vendió a Sevilla. En 1632 el banquero Octavio Centurión fue nombrado marqués de Monesterio: de su linaje es la banda de escaques del escudo.",
+   "El pueblo creció en los siglos XIX y XX alrededor de la carretera, con sus posadas. La dehesa de encinas y alcornoques, de unas 16.000 hectáreas, y la industria del cerdo ibérico son hoy su motor."
+  ],
+  "lugares": [
+   {
+    "nombre": "Iglesia de San Pedro Apóstol",
+    "texto": "Del siglo XV, con restos romanos en la fachada, un retablo de 1639 y la cruz procesional de Francisco de Alfaro (1597).",
+    "foto": "calle-san-pedro",
+    "alt": "Foto antigua en blanco y negro: calle empedrada con la torre de la iglesia al fondo"
+   },
+   {
+    "nombre": "Museo del Jamón",
+    "texto": "Abrió en 2012 en la entrada del pueblo desde Sevilla. Cuenta la dehesa, el cerdo ibérico y la matanza; acaba en un patio con la dehesa en pequeño."
+   },
+   {
+    "nombre": "Museo Micológico",
+    "texto": "El primero de Extremadura, en el antiguo silo de grano: tres salas sobre los hongos y las setas de Tentudía.",
+    "foto": "silo",
+    "alt": "Torre blanca del antiguo silo entre palmeras, al atardecer"
+   },
+   {
+    "nombre": "Pilar de la Reverencia",
+    "texto": "Abrevadero de granito de 1911, en plena travesía. Testigo de un siglo de viajeros.",
+    "foto": "pilar-reverencia",
+    "alt": "Pilar abrevadero de granito con un remate en pirámide, entre casas blancas"
+   },
+   {
+    "nombre": "Paseo de Extremadura",
+    "texto": "La antigua N-630, la carretera de la Vía de la Plata, que parte el pueblo en dos y reúne comercios y hostales.",
+    "foto": "paseo-extremadura",
+    "alt": "Travesía con casas encaladas a los dos lados y cielo de tormenta"
+   },
+   {
+    "nombre": "Cocedero de Altramuces de La Cabra",
+    "texto": "Bien de Interés Cultural desde 2012: huerta, noria, albercas y cocedero de principios del siglo XX, en la carretera de Calera de León."
+   },
+   {
+    "nombre": "Monasterio de Tentudía",
+    "texto": "En el término de Calera de León, a 10 km por la Ruta de Tentudía. La Virgen de Tentudía es la patrona de Monesterio.",
+    "foto": "monasterio-tentudia",
+    "alt": "Monasterio almenado de piedra sobre una pradera, con el cielo azul"
+   }
+  ],
+  "visitas": [
+   {
+    "nombre": "Museo del Jamón",
+    "texto": "Cinco ámbitos en la planta alta (el paraje, la tradición, el jamón, la experiencia y la historia), aula didáctica, biblioteca, «El cerdo universal» de Eduardo Naranjo y un patio con la dehesa en pequeño. Los grupos conciertan la visita.",
+    "direccion": "Paseo de Extremadura, 314",
+    "telefono": "924 516 737",
+    "nota": "Pregunte el horario en la Oficina de Turismo, que está en el mismo edificio: la web municipal da cuatro horarios distintos.",
+    "url": "https://www.facebook.com/museojamon.monesterio",
+    "url_texto": "Página del Museo en Facebook"
+   },
+   {
+    "nombre": "Museo Micológico",
+    "texto": "En el antiguo silo de grano. Tres salas: el reino de los hongos, las setas de la comarca de Tentudía y sus usos.",
+    "direccion": "Avda. de Portugal, 29",
+    "horario": "Viernes y sábados, de 10:00 a 14:00 y de 17:00 a 19:00; domingos y festivos, de 10:00 a 14:00. De martes a jueves, con visita concertada.",
+    "telefono": "924 516 737"
+   },
+   {
+    "nombre": "Centro de Interpretación de los Caminos Jacobeos",
+    "texto": "El Camino de Santiago por la Vía de la Plata, de Cádiz a Santiago: mapa interactivo, audiovisuales y la inscripción romana de Curiga.",
+    "direccion": "Plaza del Pueblo, 8",
+    "telefono": "924 516 707",
+    "nota": "En 2026 el Ayuntamiento ha cedido su uso a la Junta de Extremadura: pregunte el horario antes de ir."
+   },
+   {
+    "nombre": "Museo del Recuerdo",
+    "texto": "Sala etnográfica permanente en la planta alta de la Casa de la Cultura.",
+    "direccion": "C/ Templarios, 8",
+    "telefono": "924 516 824",
+    "nota": "No tiene horario propio: pregunte en la Casa de la Cultura."
+   }
+  ],
+  "patrimonio": [
+   {
+    "nombre": "Iglesia de San Pedro Apóstol",
+    "detalle": "Primeras noticias del siglo XV. Bóveda de crucería en el altar mayor, retablo manierista de Jerónimo Velázquez (1639), capilla del Rosario del siglo XVIII y pinturas de Eduardo Acosta. Se visita en horario de misa."
+   },
+   {
+    "nombre": "Ermita de la Virgen de Tentudía",
+    "detalle": "En un antiguo almacén de la harinera La Cruz del Pilar (1906); templo desde los años sesenta, restaurado en 1999. Se visita en horario de misa."
+   },
+   {
+    "nombre": "Cocedero de Altramuces de La Cabra",
+    "detalle": "Bien de Interés Cultural, Lugar de Interés Etnológico (Decreto 68/2012). Huerta, noria, canal, albercas, cocedero y casa del hortelano, en el km 3,25 de la carretera de Calera de León."
+   },
+   {
+    "nombre": "Dolmen de La Cabra",
+    "detalle": "Sepulcro de corredor de más de 5.000 años, con un túmulo de 22 metros, junto a la Vereda de la Plata. Cerca, otro megalito en La Cabra Baja y una tumba visigoda en Hoya Montuosa."
+   },
+   {
+    "nombre": "Castillo de las Torres",
+    "detalle": "Ruinas de una casa fuerte de la Baja Edad Media, con tres torreones redondos, junto al Camino de la Plata y al límite con Andalucía."
+   },
+   {
+    "nombre": "Las cinco cruces",
+    "detalle": "Del Barrio, del Puerto, de la Candelaria, Gorda o de la Trocha y del Llano. Las del Barrio y del Puerto reaprovechan piedras romanas."
+   },
+   {
+    "nombre": "Pilares y abrevaderos",
+    "detalle": "El Pilar de la Reverencia (1911), el Pilar Viejo, el más antiguo, y el Pilar del Llano, de granito."
+   },
+   {
+    "nombre": "El Mojón",
+    "detalle": "Deporte autóctono: dos equipos de seis lanzan «rebolos», piedras redondeadas, para derribar el mojón del contrario, un taco de madera de unos 50 cm."
+   }
+  ],
+  "fiestas": [
+   {
+    "mes": 1,
+    "nombre": "Cabalgata de Reyes",
+    "cuando": "5 de enero",
+    "fecha_fija": "01-05"
+   },
+   {
+    "mes": 2,
+    "nombre": "Matanza Tradicional del Cerdo Ibérico",
+    "cuando": "En invierno"
+   },
+   {
+    "mes": 2,
+    "nombre": "Carnaval",
+    "cuando": "Febrero o marzo",
+    "meses": [
+     2,
+     3
+    ]
+   },
+   {
+    "mes": 4,
+    "nombre": "Semana Santa",
+    "cuando": "Marzo o abril",
+    "meses": [
+     3,
+     4
+    ]
+   },
+   {
+    "mes": 5,
+    "nombre": "Cruces de Mayo",
+    "cuando": "Mayo"
+   },
+   {
+    "mes": 5,
+    "nombre": "Romería de San Isidro",
+    "cuando": "Desde el 15 de mayo, varios días, en la Pradera del Culebrín",
+    "fecha_fija": "05-15"
+   },
+   {
+    "mes": 6,
+    "nombre": "Festival Jamón & Blues",
+    "cuando": "Finales de junio"
+   },
+   {
+    "mes": 8,
+    "nombre": "Concurso de Cortadores de Jamón",
+    "cuando": "Agosto, en la Plaza del Pueblo"
+   },
+   {
+    "mes": 8,
+    "nombre": "Feria del Emigrante",
+    "cuando": "En torno al 15 de agosto",
+    "mayor": true
+   },
+   {
+    "mes": 9,
+    "nombre": "Romería de la Virgen de Tentudía",
+    "cuando": "8 de septiembre",
+    "fecha_fija": "09-08"
+   },
+   {
+    "mes": 9,
+    "nombre": "Feria y Fiestas y Día del Jamón",
+    "cuando": "En torno al 8 de septiembre; el Día del Jamón, el segundo sábado. Fiesta de Interés Turístico de Extremadura",
+    "mayor": true
+   },
+   {
+    "mes": 11,
+    "nombre": "Jornadas Micológicas",
+    "cuando": "Noviembre"
+   }
+  ],
+  "gastronomia": {
+   "platos": [
+    "Jamón ibérico de Monesterio",
+    "Migas",
+    "Revoltillos con morcilla lustre",
+    "Patatas con espinazo",
+    "Tomatada",
+    "Gazpacho",
+    "Sopones",
+    "Almorraque",
+    "Sopas de tomate con higos",
+    "Caldereta de venado",
+    "Arroz con conejo o liebre",
+    "Guarrito frito o en caldereta"
+   ],
+   "dulces": [
+    "Gañotes",
+    "Virutas",
+    "Flores",
+    "Roscos"
+   ],
+   "bebidas": []
+  },
+  "personajes": [
+   {
+    "nombre": "Eduardo Naranjo",
+    "fechas": "1944",
+    "texto": "Pintor del realismo mágico. Medalla de Extremadura en 1991. Su «Cerdo universal» está en el Museo del Jamón."
+   },
+   {
+    "nombre": "Eduardo Acosta",
+    "fechas": "1905-1990",
+    "texto": "Pintor y maestro de pintores, entre ellos Eduardo Naranjo. Decoró la cúpula del Sagrario de la iglesia en los años cuarenta."
+   },
+   {
+    "nombre": "Isabel Márquez",
+    "fechas": "1568",
+    "texto": "Natural de Monesterio, madre del pintor Francisco de Zurbarán."
+   },
+   {
+    "nombre": "Diego Muñoz Naranjo",
+    "fechas": "siglo XVII",
+    "texto": "Vecino de Monesterio que acompañó a Zurbarán a la Corte y trabajó con él en el Salón de Reinos del Buen Retiro (1634)."
+   }
+  ],
+  "rutas": [
+   {
+    "nombre": "Camino de Santiago: El Real de la Jara – Monesterio",
+    "resumen": "Etapa de 19,6 km por la Vía de la Plata: el Castillo de las Torres, el arroyo del Culebrín, la ermita de San Isidro y la subida a la Cruz del Puerto."
+   },
+   {
+    "nombre": "Ruta de Tentudía",
+    "resumen": "Del Museo del Jamón al Monasterio de Tentudía: 10 km, dificultad media.",
+    "url": "https://turismoententudia.es/listado/monesterio/rutas/ruta-de-tentudia/"
+   },
+   {
+    "nombre": "Ruta Aguafría – Castillo",
+    "resumen": "Al alto de Aguafría (1.079 m) y al mirador del Castillo: 12,5 km, dificultad media.",
+    "url": "https://turismoententudia.es/listado/monesterio/rutas/ruta-aguafria-castillo/"
+   },
+   {
+    "nombre": "Ruta del Camping",
+    "resumen": "Por el polígono El Cerezo, la Cruz del Puerto y el arroyo del Culebrín: 9,5 km, dificultad baja.",
+    "url": "https://turismoententudia.es/listado/monesterio/rutas/ruta-del-camping/"
+   },
+   {
+    "nombre": "Ruta de Montemolín",
+    "resumen": "Sendero hasta el pueblo vecino. Ficha de la ruta en PDF.",
+    "url": "https://monesterio.es/documentos/20210425103831.pdf"
+   },
+   {
+    "nombre": "Ruta de Calera de León",
+    "resumen": "Sendero hasta el pueblo vecino. Ficha de la ruta en PDF.",
+    "url": "https://monesterio.es/documentos/20210425103725.pdf"
+   }
+  ],
+  "establecimientos_fuente": "Datos de la web municipal (monesterio.es, sin fecha), consultada el 3 de octubre de 2026.",
+  "establecimientos": [
+   {
+    "grupo": "Hoteles y hostales",
+    "items": [
+     {
+      "nombre": "Hotel Leo",
+      "direccion": "Paseo de Extremadura, 2A",
+      "telefono": "924 516 428"
+     },
+     {
+      "nombre": "Complejo Leo 24 h",
+      "direccion": "A-66, km 730",
+      "telefono": "924 517 048"
+     },
+     {
+      "nombre": "Hotel Moya",
+      "direccion": "Paseo de Extremadura, 278",
+      "telefono": "924 516 136"
+     },
+     {
+      "nombre": "Hostal El Pilar",
+      "direccion": "Paseo de Extremadura, 221",
+      "telefono": "924 516 756"
+     },
+     {
+      "nombre": "Hostal Extremadura",
+      "direccion": "Paseo de Extremadura, 103",
+      "telefono": "924 516 502"
+     },
+     {
+      "nombre": "Apartamentos turísticos Oikos",
+      "direccion": "C/ Cervantes, 8",
+      "telefono": "605 112 970"
+     },
+     {
+      "nombre": "Hoteles Deconecta2",
+      "direccion": "Ctra. EX-103, km 211",
+      "telefono": "924 292 000"
+     },
+     {
+      "nombre": "La Dehesa de Don Pedro",
+      "direccion": "Ctra. BA-067, km 33,5",
+      "nota": "Su web da dos teléfonos distintos"
+     },
+     {
+      "nombre": "Cortijo boutique Acepados",
+      "direccion": "Ctra. EX-103, km 200",
+      "telefono": "660 476 002"
+     }
+    ]
+   },
+   {
+    "grupo": "Albergues",
+    "items": [
+     {
+      "nombre": "Albergue parroquial de peregrinos",
+      "direccion": "Paseo de Extremadura, 218",
+      "telefono": "924 516 097",
+      "nota": "12 plazas"
+     },
+     {
+      "nombre": "Albergue turístico Los Cotos",
+      "direccion": "Ctra. N-630, km 728,5",
+      "telefono": "924 516 664"
+     }
+    ]
+   },
+   {
+    "grupo": "Casas rurales",
+    "items": [
+     {
+      "nombre": "Las Dehesillas",
+      "direccion": "Ctra. Pallares – Santa María, km 32",
+      "telefono": "636 829 845"
+     },
+     {
+      "nombre": "La Cabra",
+      "direccion": "Ctra. Calera – Montemolín",
+      "telefono": "669 410 657"
+     },
+     {
+      "nombre": "El Zumacal",
+      "direccion": "Camino de Cala, km 2",
+      "telefono": "669 410 657"
+     },
+     {
+      "nombre": "Lovely Country House Ruta de la Plata",
+      "direccion": "C/ Mesones, 22",
+      "telefono": "610 511 665"
+     },
+     {
+      "nombre": "La Arboleda",
+      "direccion": "Los Cotos, parcela 27",
+      "telefono": "691 316 644"
+     },
+     {
+      "nombre": "Casa Manuela",
+      "direccion": "C/ Las Linas, 8",
+      "telefono": "639 862 984"
+     },
+     {
+      "nombre": "Sierra de Aguafría",
+      "direccion": "Finca El Robledillo",
+      "telefono": "687 443 683"
+     },
+     {
+      "nombre": "Madre del Agua",
+      "direccion": "Finca El Robledillo",
+      "telefono": "687 443 683"
+     },
+     {
+      "nombre": "Siquem",
+      "direccion": "Paraje Los Cotos",
+      "telefono": "617 426 859"
+     },
+     {
+      "nombre": "La Siesta del Naranjo",
+      "direccion": "El Recio, camino de la depuradora",
+      "telefono": "622 307 716"
+     },
+     {
+      "nombre": "La Libertad",
+      "direccion": "C/ Libertad, 48"
+     }
+    ]
+   },
+   {
+    "grupo": "Restaurantes",
+    "items": [
+     {
+      "nombre": "El Rinconcillo",
+      "direccion": "Paseo de Extremadura, 67",
+      "telefono": "924 517 001"
+     },
+     {
+      "nombre": "Restaurante Leo",
+      "direccion": "Paseo de Extremadura, 2A",
+      "telefono": "924 516 428"
+     },
+     {
+      "nombre": "Complejo Leo 24 h",
+      "direccion": "A-66, km 730",
+      "telefono": "924 517 048"
+     },
+     {
+      "nombre": "Mallorca",
+      "direccion": "Paseo de Extremadura, 299",
+      "telefono": "924 516 449"
+     },
+     {
+      "nombre": "Moya",
+      "direccion": "Paseo de Extremadura, 278",
+      "telefono": "924 516 136"
+     },
+     {
+      "nombre": "Honky Tonk",
+      "direccion": "C/ Templarios, 9",
+      "telefono": "671 828 682"
+     },
+     {
+      "nombre": "Los Templarios",
+      "direccion": "C/ Templarios",
+      "telefono": "924 516 188"
+     },
+     {
+      "nombre": "Don Fadrique",
+      "direccion": "Paseo de Extremadura, 69"
+     },
+     {
+      "nombre": "La Ponderosa",
+      "direccion": "A-66, salida 723 (polígono El Alcornocal)",
+      "telefono": "646 586 685"
+     },
+     {
+      "nombre": "Abarka",
+      "direccion": "C/ Cervantes, 8",
+      "telefono": "663 040 562"
+     },
+     {
+      "nombre": "La Flor de la Candela",
+      "direccion": "Ctra. EX-103, km 211",
+      "telefono": "924 292 000"
+     }
+    ]
+   }
+  ]
+ },
+ "fotos": {
+  "hero": {
+   "archivo": "ayuntamiento",
+   "alt": "Fachada encalada de la Casa Consistorial, con recercados amarillos y balcones de hierro",
+   "posicion": "45% 50%"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+  "_leeme": "Crédito de cada foto de media/ (por nombre, sin .jpg). Todas son de Wikimedia Commons, con su licencia. Faltan fotos propias de la iglesia de San Pedro por dentro y por fuera, del Museo del Jamón, de la plaza y del Día del Jamón: se dejan los huecos diseñados.",
+  "ayuntamiento": {
+    "titulo": "Casa Consistorial (portada)",
+    "autor": "Vanbasten 23",
+    "licencia": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Monesterio_town_hall.jpg"
+  },
+  "calle-san-pedro": {
+    "titulo": "Calle con la torre de San Pedro, foto antigua",
+    "autor": "Fernando Garrorena Arcas (1901-1945)",
+    "licencia": "Dominio público",
+    "url": "https://commons.wikimedia.org/wiki/File:Monesterio_(Badajoz_province).jpg"
+  },
+  "pilar-reverencia": {
+    "titulo": "Pilar de la Reverencia",
+    "autor": "Marbregal",
+    "licencia": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Monesterio_Abrevadero_de_la_Reverencia.JPG"
+  },
+  "silo": {
+    "titulo": "El antiguo silo, hoy Museo Micológico",
+    "autor": "Vanbasten 23",
+    "licencia": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Silo_de_Monesterio.jpg"
+  },
+  "paseo-extremadura": {
+    "titulo": "Paseo de Extremadura, la antigua N-630",
+    "autor": "Feranza",
+    "licencia": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Monesterio,_Badajoz.JPG"
+  },
+  "monasterio-tentudia": {
+    "titulo": "Monasterio de Tentudía (término de Calera de León)",
+    "autor": "80kmh",
+    "licencia": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:20230212_111349_Tentudia.jpg"
+  }
+}

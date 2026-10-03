@@ -1,0 +1,38 @@
+[
+  {
+    "origen": "../../ayuntamiento-monesterio-bocetos/fotos/ayuntamiento-fachada.jpg",
+    "salida": "ayuntamiento"
+  },
+  {
+    "origen": "../../ayuntamiento-monesterio-bocetos/fotos/calle-antigua-bn.jpg",
+    "salida": "calle-san-pedro"
+  },
+  {
+    "origen": "../../ayuntamiento-monesterio-bocetos/fotos/pilar-de-la-reverencia.jpg",
+    "salida": "pilar-reverencia",
+    "recorte": [
+      0,
+      0.12,
+      0.92,
+      1
+    ]
+  },
+  {
+    "origen": "../../ayuntamiento-monesterio-bocetos/fotos/silo.jpg",
+    "salida": "silo",
+    "recorte": [
+      0,
+      0.08,
+      1,
+      0.92
+    ]
+  },
+  {
+    "origen": "../../ayuntamiento-monesterio-bocetos/fotos/travesia-n630.jpg",
+    "salida": "paseo-extremadura"
+  },
+  {
+    "origen": "../../ayuntamiento-monesterio-bocetos/fotos/monasterio-tentudia-exterior.jpg",
+    "salida": "monasterio-tentudia"
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "_leeme": "Avisos del Ayuntamiento. Campos: id, fecha (AAAA-MM-DD), tema, titulo, texto, enlace (opcional). Con \"urgente\": true y \"caduca\" (AAAA-MM-DD) sale en la franja roja de todas las páginas hasta ese día incluido. \"ejemplo\": true pone la etiqueta «Ejemplo». También se pueden publicar desde la hoja de cálculo (municipio.json → hoja). Los de esta maqueta salen de Monesterio Informa (Bandomóvil) y de la web municipal, con su fecha.",
+  "avisos": [
+    {
+      "id": "alerta-amarilla-lluvias-3-octubre",
+      "fecha": "2026-10-02",
+      "tema": "Emergencias",
+      "titulo": "Alerta amarilla por lluvias y tormentas el sábado 3 de octubre, de 0:00 a 21:00",
+      "texto": "La activa el 112 de Extremadura en toda la región. En caso de emergencia, llame al 112.",
+      "urgente": true,
+      "caduca": "2026-10-03",
+      "enlace": "https://www.bandomovil.com/monesterio/1654102/0"
+    },
+    {
+      "id": "asfaltado-octubre",
+      "fecha": "2026-10-02",
+      "tema": "Obras",
+      "titulo": "Asfaltado de la avenida Ramón y Cajal, El Chorrito y Las Moreras desde mediados o finales de octubre",
+      "texto": "Las obras están adjudicadas y empezarán cuando se firme el acta de replanteo. Mientras tanto, el servicio municipal de obras sigue con el bacheo diario.",
+      "enlace": "https://monesterio.es/ver.php?pag=11263"
+    },
+    {
+      "id": "puerta-a-puerta-horario-invierno",
+      "fecha": "2026-09-28",
+      "tema": "Basura",
+      "titulo": "Recogida Puerta a Puerta: desde el 1 de octubre, el cubo se saca de 20:00 a 22:00",
+      "texto": "Es el horario de invierno de la Mancomunidad de Tentudía. Las rutas no siempre empiezan en el mismo pueblo: saque el cubo dentro de ese tramo. Dudas: 924 149 654.",
+      "enlace": "https://www.bandomovil.com/monesterio/1650682/0"
+    },
+    {
+      "id": "iae-2026",
+      "fecha": "2026-09-16",
+      "tema": "Impuestos",
+      "titulo": "Impuesto de Actividades Económicas de 2026: se paga hasta el 16 de noviembre",
+      "texto": "El plazo de pago voluntario lo gestiona el Organismo Autónomo de Recaudación (OAR) de la Diputación de Badajoz.",
+      "enlace": "https://monesterio.es/ver.php?pag=11231"
+    },
+    {
+      "id": "festivos-locales-2027",
+      "fecha": "2026-09-07",
+      "tema": "Calendario",
+      "titulo": "Fiestas locales de 2027: 13 de mayo y 10 de septiembre",
+      "texto": "Iban en el orden del día del Pleno ordinario del 3 de septiembre de 2026.",
+      "enlace": "https://www.bandomovil.com/monesterio/1638491/3"
+    }
+  ]
+}
