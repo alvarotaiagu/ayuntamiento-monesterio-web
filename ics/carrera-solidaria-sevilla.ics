@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Monesterio//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:carrera-solidaria-sevilla@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Viaje a la carrera solidaria «Tus kilómetros nos dan vida»
+LOCATION:Parque del Alamillo (Sevilla)\; salida desde Monesterio\, Monester
+ io
+DESCRIPTION:Autobús gratuito para las personas inscritas. Inscripción en 
+ la Casa de la Cultura hasta el 16 de octubre (685 399 246).
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-carrera-solidaria-sevilla
+END:VEVENT
+END:VCALENDAR

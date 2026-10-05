@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Monesterio//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fiesta-romeria-de-la-virgen-de-tentudia-2027@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Romería de la Virgen de Tentudía
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-fiesta-romeria-de-la-virgen-de-tentudia-2027
+END:VEVENT
+END:VCALENDAR

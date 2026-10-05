@@ -1,0 +1,161 @@
+{
+ "_leeme": "Lo escribe scripts/fotos-igualar.py: lo medido y lo aplicado a cada foto (no editar).",
+ "parametros": {
+  "LADO": 1600,
+  "LADO_MOVIL": 800,
+  "FUERZA_BLANCOS": 0.6,
+  "TOPE_BLANCOS": 0.07,
+  "MIN_GRISES": 0.03,
+  "NEGRO": 0.025,
+  "BLANCO": 0.965,
+  "TOPE_NIVELES": 1.3,
+  "MEDIANA": 0.52,
+  "GAMMA_MIN": 0.8,
+  "GAMMA_MAX": 1.1,
+  "CROMA": 0.115,
+  "SAT_MIN": 0.85,
+  "SAT_MAX": 1.12,
+  "CALIDO": 0.012,
+  "NITIDEZ": {
+   "radius": 1.0,
+   "percent": 35,
+   "threshold": 3
+  },
+  "CALIDAD": 84,
+  "CALIDAD_MOVIL": 82
+ },
+ "fotos": {
+  "ayuntamiento": {
+   "grises": 0.435,
+   "ganancia_rgb": [
+    1.005,
+    0.999,
+    0.992
+   ],
+   "niveles": [
+    0.006,
+    0.968
+   ],
+   "estira": 0.977,
+   "gamma": 0.8,
+   "croma_antes": 0.07,
+   "saturacion": 1.12,
+   "croma_despues": 0.085,
+   "mediana_despues": 0.432,
+   "tamano": [
+    1600,
+    1067
+   ]
+  },
+  "calle-san-pedro": {
+   "grises": 0.838,
+   "ganancia_rgb": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "niveles": [
+    0.118,
+    0.973
+   ],
+   "estira": 1.1,
+   "gamma": 1.1,
+   "croma_antes": 0.0,
+   "saturacion": 1.12,
+   "croma_despues": 0.015,
+   "mediana_despues": 0.66,
+   "tamano": [
+    1157,
+    772
+   ]
+  },
+  "monasterio-tentudia": {
+   "grises": 0.258,
+   "ganancia_rgb": [
+    1.013,
+    0.998,
+    0.984
+   ],
+   "niveles": [
+    0.008,
+    0.87
+   ],
+   "estira": 1.091,
+   "gamma": 1.1,
+   "croma_antes": 0.1,
+   "saturacion": 1.072,
+   "croma_despues": 0.107,
+   "mediana_despues": 0.739,
+   "tamano": [
+    1600,
+    1200
+   ]
+  },
+  "paseo-extremadura": {
+   "grises": 0.876,
+   "ganancia_rgb": [
+    1.014,
+    0.998,
+    0.976
+   ],
+   "niveles": [
+    0.047,
+    0.902
+   ],
+   "estira": 1.099,
+   "gamma": 0.8,
+   "croma_antes": 0.038,
+   "saturacion": 1.12,
+   "croma_despues": 0.038,
+   "mediana_despues": 0.515,
+   "tamano": [
+    1600,
+    1066
+   ]
+  },
+  "pilar-reverencia": {
+   "grises": 0.543,
+   "ganancia_rgb": [
+    1.006,
+    0.997,
+    1.017
+   ],
+   "niveles": [
+    0.064,
+    0.998
+   ],
+   "estira": 1.007,
+   "gamma": 0.8,
+   "croma_antes": 0.044,
+   "saturacion": 1.12,
+   "croma_despues": 0.055,
+   "mediana_despues": 0.459,
+   "tamano": [
+    1600,
+    1148
+   ]
+  },
+  "silo": {
+   "grises": 0.058,
+   "ganancia_rgb": [
+    0.998,
+    1.001,
+    0.991
+   ],
+   "niveles": [
+    0.02,
+    0.87
+   ],
+   "estira": 1.106,
+   "gamma": 0.8,
+   "croma_antes": 0.14,
+   "saturacion": 0.907,
+   "croma_despues": 0.118,
+   "mediana_despues": 0.482,
+   "tamano": [
+    1539,
+    1600
+   ]
+  }
+ }
+}

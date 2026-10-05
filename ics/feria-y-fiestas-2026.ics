@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Monesterio//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:feria-y-fiestas-2026@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Feria y Fiestas\, del 8 al 13 de septiembre
+DESCRIPTION:Pregón de Joaquín Villalba el día 8.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-feria-y-fiestas-2026
+END:VEVENT
+END:VCALENDAR

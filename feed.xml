@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <title>Avisos y noticias · Ayuntamiento de Monesterio</title>
+  <subtitle>Lo que publica el Ayuntamiento de Monesterio: avisos (cortes, convocatorias, plazos) y noticias.</subtitle>
+  <id>urn:uuid:6730960d-3741-65c2-2586-3eb8b7df9bfd</id>
+  <link rel="self" type="application/atom+xml" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/avisos.html"/>
+  <updated>2026-10-02T09:00:00+02:00</updated>
+  <author><name>Ayuntamiento de Monesterio</name></author>
+  <icon>https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/marca/escudo-160.png</icon>
+  <entry>
+    <title>Alerta amarilla por lluvias y tormentas el sábado 3 de octubre, de 0:00 a 21:00</title>
+    <id>urn:uuid:fb785f16-770d-222b-6d42-0801a80bb4e4</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/avisos.html#aviso-alerta-amarilla-lluvias-3-octubre"/>
+    <published>2026-10-02T09:00:00+02:00</published>
+    <updated>2026-10-02T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">La activa el 112 de Extremadura en toda la región. En caso de emergencia, llame al 112.</summary>
+  </entry>
+  <entry>
+    <title>Asfaltado de la avenida Ramón y Cajal, El Chorrito y Las Moreras desde mediados o finales de octubre</title>
+    <id>urn:uuid:304e3915-2d39-aee8-72d5-46dd1b5e8a38</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/avisos.html#aviso-asfaltado-octubre"/>
+    <published>2026-10-02T09:00:00+02:00</published>
+    <updated>2026-10-02T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Las obras están adjudicadas y empezarán cuando se firme el acta de replanteo. Mientras tanto, el servicio municipal de obras sigue con el bacheo diario.</summary>
+  </entry>
+  <entry>
+    <title>Adjudicado por 92.000 € el asfaltado de varias calles</title>
+    <id>urn:uuid:c99661f9-9f1e-1ac2-21e7-76ded5384d96</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/noticia-asfaltado-ramon-y-cajal.html"/>
+    <published>2026-10-02T09:00:00+02:00</published>
+    <updated>2026-10-02T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Avenida Ramón y Cajal, El Chorrito y Las Moreras, desde mediados o finales de octubre.</summary>
+  </entry>
+  <entry>
+    <title>124 nichos nuevos en el cementerio municipal</title>
+    <id>urn:uuid:ba67008e-8492-b2f9-3c3c-277f306d310e</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/noticia-nichos-cementerio.html"/>
+    <published>2026-10-01T09:00:00+02:00</published>
+    <updated>2026-10-01T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Garantizan los enterramientos durante unos seis años. La primera fase estará lista a finales de octubre.</summary>
+  </entry>
+  <entry>
+    <title>El alumnado del programa Escala arregla el parque El Tejar</title>
+    <id>urn:uuid:88ad2a9e-3ebe-d21c-f242-9e6e9321ebba</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/noticia-parque-el-tejar-escala.html"/>
+    <published>2026-10-01T09:00:00+02:00</published>
+    <updated>2026-10-01T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Doce alumnos de jardinería del programa Escala Monesterio II cuidan 32 zonas verdes del pueblo.</summary>
+  </entry>
+  <entry>
+    <title>La Policía Local tendrá un coche eléctrico y tres agentes más</title>
+    <id>urn:uuid:57804f0f-1878-d60a-9654-d178c2e8ff32</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/noticia-policia-local-coche-electrico.html"/>
+    <published>2026-09-29T09:00:00+02:00</published>
+    <updated>2026-09-29T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">El vehículo, de 45.300 €, lo subvenciona la Diputación de Badajoz con el Plan MOVEM II.</summary>
+  </entry>
+  <entry>
+    <title>Recogida Puerta a Puerta: desde el 1 de octubre, el cubo se saca de 20:00 a 22:00</title>
+    <id>urn:uuid:53839ecc-06be-d179-3779-2a25e90051f9</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/avisos.html#aviso-puerta-a-puerta-horario-invierno"/>
+    <published>2026-09-28T09:00:00+02:00</published>
+    <updated>2026-09-28T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Es el horario de invierno de la Mancomunidad de Tentudía. Las rutas no siempre empiezan en el mismo pueblo: saque el cubo dentro de ese tramo. Dudas: 924 149 654.</summary>
+  </entry>
+  <entry>
+    <title>Impuesto de Actividades Económicas de 2026: se paga hasta el 16 de noviembre</title>
+    <id>urn:uuid:1d4c0e1c-9257-bd03-57cc-e757c3149f68</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/avisos.html#aviso-iae-2026"/>
+    <published>2026-09-16T09:00:00+02:00</published>
+    <updated>2026-09-16T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">El plazo de pago voluntario lo gestiona el Organismo Autónomo de Recaudación (OAR) de la Diputación de Badajoz.</summary>
+  </entry>
+  <entry>
+    <title>Fiestas locales de 2027: 13 de mayo y 10 de septiembre</title>
+    <id>urn:uuid:15ca7af5-086b-de44-a8b7-89615f0b42d9</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/avisos.html#aviso-festivos-locales-2027"/>
+    <published>2026-09-07T09:00:00+02:00</published>
+    <updated>2026-09-07T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Iban en el orden del día del Pleno ordinario del 3 de septiembre de 2026.</summary>
+  </entry>
+  <entry>
+    <title>El Día del Jamón celebró su 35.ª edición el 12 de septiembre</title>
+    <id>urn:uuid:da92f4ce-e354-931c-d9fe-62878fa5b29c</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/noticia-dia-del-jamon-2026.html"/>
+    <published>2026-09-03T09:00:00+02:00</published>
+    <updated>2026-09-03T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Fiesta de Interés Turístico de Extremadura desde 2009, dentro de la Feria y Fiestas.</summary>
+  </entry>
+  <entry>
+    <title>Miguel Ángel Martínez Suárez, nuevo concejal del Grupo Popular</title>
+    <id>urn:uuid:86493a71-ec53-d615-946d-432767a7b43e</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/noticia-nuevo-concejal-pp.html"/>
+    <published>2026-08-08T09:00:00+02:00</published>
+    <updated>2026-08-08T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Juró el cargo en el Pleno extraordinario del 6 de agosto, que aprobó también el expediente de concesión de la residencia de mayores.</summary>
+  </entry>
+</feed>

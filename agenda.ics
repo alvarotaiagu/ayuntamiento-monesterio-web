@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Monesterio//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Agenda de Monesterio
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fiesta-cabalgata-de-reyes-2026@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:Cabalgata de Reyes
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-fiesta-cabalgata-de-reyes-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-romeria-de-san-isidro-2026@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Romería de San Isidro
+LOCATION:Desde el 15 de mayo\, varios días\, en la Pradera del Culebrín\,
+  Monesterio
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-fiesta-romeria-de-san-isidro-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pleno-ordinario-3-septiembre@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;TZID=Europe/Madrid:20260903T203000
+DTEND;TZID=Europe/Madrid:20260903T213000
+SUMMARY:Pleno ordinario
+DESCRIPTION:Fiestas locales de 2027\, dación de cuentas\, informes de la A
+ lcaldía\, mociones\, ruegos y preguntas.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-pleno-ordinario-3-septiembre
+END:VEVENT
+BEGIN:VEVENT
+UID:feria-y-fiestas-2026@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Feria y Fiestas\, del 8 al 13 de septiembre
+DESCRIPTION:Pregón de Joaquín Villalba el día 8.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-feria-y-fiestas-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-romeria-de-la-virgen-de-tentudia-2026@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Romería de la Virgen de Tentudía
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-fiesta-romeria-de-la-virgen-de-tentudia-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-del-jamon-2026@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:XXXV Día del Jamón
+LOCATION:Parque y piscina municipal\, Monesterio
+DESCRIPTION:Degustaciones populares\; el recinto de la piscina abre a las 8
+ :00.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-dia-del-jamon-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:di-jazz-2026@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;TZID=Europe/Madrid:20261003T203000
+DTEND;TZID=Europe/Madrid:20261003T213000
+SUMMARY:IX Festival de Jazz Itinerante «Di Jazz»: Javier Pérez Quartet
+LOCATION:Casa de la Cultura\, Monesterio
+DESCRIPTION:Entrada gratuita. Invitaciones en la Casa de la Cultura.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-di-jazz-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:viaje-feria-zafra@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;TZID=Europe/Madrid:20261005T120000
+DTEND;TZID=Europe/Madrid:20261005T130000
+SUMMARY:Viaje a la Feria Internacional Ganadera de Zafra
+LOCATION:Salida desde la nueva parada de autobuses\, Monesterio
+DESCRIPTION:Vuelta a las 20:00. 3 €. Inscripción en la Casa de la Cultur
+ a hasta el 2 de octubre.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-viaje-feria-zafra
+END:VEVENT
+BEGIN:VEVENT
+UID:charla-fraudes@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;TZID=Europe/Madrid:20261009T110000
+DTEND;TZID=Europe/Madrid:20261009T120000
+SUMMARY:Charla sobre prevención de fraudes\, por el Día Internacional de 
+ las Personas de Edad
+LOCATION:Sala de conferencias de la Casa de la Cultura\, Monesterio
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-charla-fraudes
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-mancomunidad-2026@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:XLVII Día de la Mancomunidad y Comarca de Tentudía
+LOCATION:Bodonal de la Sierra\, Plaza de España\, Monesterio
+DESCRIPTION:Autobuses gratuitos de la Mancomunidad\; vuelta a las 19:00 y a
+  las 22:00. Inscripción hasta el 7 de octubre.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-dia-mancomunidad-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:documental-pan-memoria@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;TZID=Europe/Madrid:20261015T170000
+DTEND;TZID=Europe/Madrid:20261015T180000
+SUMMARY:Convivencia familiar: documental «El pan de la memoria»
+LOCATION:Residencia de Mayores\, Monesterio
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-documental-pan-memoria
+END:VEVENT
+BEGIN:VEVENT
+UID:marcha-cancer-mama-2026@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;TZID=Europe/Madrid:20261018T113000
+DTEND;TZID=Europe/Madrid:20261018T123000
+SUMMARY:VIII Marcha Solidaria contra el Cáncer de Mama
+LOCATION:De la calle Templarios al Pabellón Multiusos\, Monesterio
+DESCRIPTION:Organiza AOEX. Inscripción en la Casa de la Cultura hasta el 1
+ 6 de octubre.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-marcha-cancer-mama-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:carrera-solidaria-sevilla@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Viaje a la carrera solidaria «Tus kilómetros nos dan vida»
+LOCATION:Parque del Alamillo (Sevilla)\; salida desde Monesterio\, Monester
+ io
+DESCRIPTION:Autobús gratuito para las personas inscritas. Inscripción en 
+ la Casa de la Cultura hasta el 16 de octubre (685 399 246).
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-carrera-solidaria-sevilla
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-turismo-tentudia@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Día Mundial del Turismo de la Diputación: «De la cueva a las est
+ rellas\, el viaje vertical»
+LOCATION:Comarca de Tentudía\, Monesterio
+DESCRIPTION:Actividad gratuita.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-dia-turismo-tentudia
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-cabalgata-de-reyes-2027@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Cabalgata de Reyes
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-fiesta-cabalgata-de-reyes-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-romeria-de-san-isidro-2027@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Romería de San Isidro
+LOCATION:Desde el 15 de mayo\, varios días\, en la Pradera del Culebrín\,
+  Monesterio
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-fiesta-romeria-de-san-isidro-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-romeria-de-la-virgen-de-tentudia-2027@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Romería de la Virgen de Tentudía
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-fiesta-romeria-de-la-virgen-de-tentudia-2027
+END:VEVENT
+END:VCALENDAR

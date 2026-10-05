@@ -1,0 +1,258 @@
+{
+ "_leeme": "«El pueblo» en portugués de Portugal (pueblo-pt.html). Lo lee scripts/aplicar.mjs: cada texto va emparejado por el nombre en castellano de municipio.json → pueblo. Si falta alguno, la página no se genera. Los nombres propios y los topónimos no se traducen.",
+ "nombre_idioma": "Português",
+ "og_locale": "pt_PT",
+ "pagina": {
+  "titulo": "A vila",
+  "titulo_doc": "A vila · Monesterio",
+  "entradilla": "Na Serra Morena, na Vía de la Plata e à porta da Estremadura espanhola: terra de montado, de presunto ibérico e de pintores.",
+  "descripcion": "História, património, festas e gastronomia de Monesterio (Badajoz, Espanha)."
+ },
+ "cabecera_alt": "Uma rua empedrada de Monesterio no início do século XX, com vizinhas à porta e a torre de San Pedro ao fundo",
+ "ui": {
+  "idiomas": "Idiomas desta página",
+  "aviso_idioma": "O resto do sítio está em espanhol.",
+  "que_ver": "O que ver",
+  "para_visitar": "Para visitar",
+  "historia": "História",
+  "patrimonio": "Património",
+  "fiestas": "Festas",
+  "gastronomia": "Gastronomia",
+  "platos": "Pratos",
+  "dulces": "Doces",
+  "para_beber": "Para beber",
+  "personajes": "Personalidades",
+  "rutas": "Percursos pedestres",
+  "ver_la_ruta": "Ver o percurso (em espanhol)",
+  "comer_dormir": "Onde comer e dormir",
+  "llamar_a": "Ligar para",
+  "otra_web": ", abre outro sítio",
+  "negocios_privados": "São negócios privados: a Câmara Municipal não se responsabiliza pelos seus dados.",
+  "creditos": "Créditos das fotografias",
+  "ficha_foto": "ficha da fotografia",
+  "foto": "Foto:",
+  "termino_titulo": "O concelho num mapa",
+  "termino_pie": "Mapa do território municipal de {nombre}, desenhado com dados do OpenStreetMap{fecha}.",
+  "termino_fecha": " a {fecha}",
+  "termino_lugares": "Lugares do mapa",
+  "termino_leer": "Como ler o mapa",
+  "clave_limite": "Limite do território municipal (linha tracejada)",
+  "clave_casco": "A vila (área sombreada)",
+  "clave_carreteras": "Estradas (linha grossa)",
+  "clave_rutas": "Percursos (linha de pontos)",
+  "clave_puntos": "Círculo com número: um lugar da lista",
+  "clave_escala": "Escala: a barra de baixo mede",
+  "clave_recuadro": "Detalhe: a vila ampliada; a sua barra mede",
+  "clave_guia": "Linha fina com um ponto: o sítio exato, quando o número foi afastado para se poder ler",
+  "fiesta_mayor": "Festa principal",
+  "sin_fiestas": "Sem festas neste mês",
+  "migas": "Está aqui",
+  "inicio": "Início (em espanhol)",
+  "en_esta_pagina": "Nesta página"
+ },
+ "pueblo": {
+  "historia": [
+   "A Vía de la Plata passa por Monesterio há dois mil anos. Em época romana a povoação chamava-se Curiga: atestam-no uma inscrição, hoje no Centro de Interpretación de los Caminos Jacobeos (centro de interpretação dos caminhos de Santiago), e as colunas, silhares e cornijas romanas da fachada da igreja.",
+   "Depois da conquista de Montemolín, por volta de 1247, a zona passou para a Ordem de Santiago, que aqui esteve até 1875. No século XIV Monesterio já era comenda da Ordem.",
+   "Por volta de 1573 a Coroa separou-a da Ordem e vendeu-a a Sevilha. Em 1632 o banqueiro Octavio Centurión foi nomeado marquês de Monesterio: da sua linhagem vem a banda de xadrez do brasão.",
+   "A vila cresceu nos séculos XIX e XX em redor da estrada, com as suas estalagens. O montado de azinheiras e sobreiros, com cerca de 16 000 hectares, e a indústria do porco ibérico são hoje o seu motor."
+  ],
+  "lugares": {
+   "Iglesia de San Pedro Apóstol": {
+    "nombre": "Igreja de San Pedro Apóstol",
+    "texto": "Do século XV, com vestígios romanos na fachada, um retábulo de 1639 e a cruz processional de Francisco de Alfaro (1597).",
+    "alt": "Fotografia antiga a preto e branco: rua empedrada com a torre da igreja ao fundo"
+   },
+   "Museo del Jamón": {
+    "nombre": "Museu do Presunto (Museo del Jamón)",
+    "texto": "Abriu em 2012 à entrada da vila, vindo de Sevilha. Conta a história do montado, do porco ibérico e da matança; termina num pátio com o montado em ponto pequeno."
+   },
+   "Museo Micológico": {
+    "nombre": "Museu Micológico (Museo Micológico)",
+    "texto": "O primeiro da Estremadura espanhola, no antigo silo de cereais: três salas sobre os fungos e os cogumelos de Tentudía.",
+    "alt": "Torre branca do antigo silo entre palmeiras, ao entardecer"
+   },
+   "Pilar de la Reverencia": {
+    "texto": "Bebedouro de granito de 1911, em plena travessia da vila. Testemunha de um século de viajantes.",
+    "alt": "Bebedouro de granito com remate em pirâmide, entre casas brancas"
+   },
+   "Paseo de Extremadura": {
+    "texto": "A antiga N-630, a estrada da Vía de la Plata, que parte a vila ao meio e reúne comércios e hospedarias.",
+    "alt": "Travessia com casas caiadas dos dois lados e céu de tempestade"
+   },
+   "Cocedero de Altramuces de La Cabra": {
+    "nombre": "Cocedero de Altramuces de La Cabra (cozedouro de tremoços)",
+    "texto": "Bem de Interesse Cultural desde 2012: horta, nora, tanques e cozedouro de tremoços do início do século XX, na estrada de Calera de León."
+   },
+   "Monasterio de Tentudía": {
+    "nombre": "Mosteiro de Tentudía",
+    "texto": "No concelho de Calera de León, a 10 km pela Ruta de Tentudía. A Virgen de Tentudía é a padroeira de Monesterio.",
+    "alt": "Mosteiro ameado de pedra sobre um prado, com o céu azul"
+   }
+  },
+  "patrimonio": {
+   "Iglesia de San Pedro Apóstol": {
+    "nombre": "Igreja de San Pedro Apóstol",
+    "detalle": "Primeiras notícias do século XV. Abóbada de nervuras na capela-mor, retábulo maneirista de Jerónimo Velázquez (1639), capela do Rosário do século XVIII e pinturas de Eduardo Acosta. Visita-se durante o horário da missa."
+   },
+   "Ermita de la Virgen de Tentudía": {
+    "nombre": "Ermida da Virgen de Tentudía",
+    "detalle": "Num antigo armazém da moagem La Cruz del Pilar (1906); templo desde os anos sessenta, restaurado em 1999. Visita-se durante o horário da missa."
+   },
+   "Cocedero de Altramuces de La Cabra": {
+    "nombre": "Cocedero de Altramuces de La Cabra (cozedouro de tremoços)",
+    "detalle": "Bem de Interesse Cultural, Lugar de Interesse Etnológico (Decreto 68/2012). Horta, nora, canal, tanques, cozedouro e casa do hortelão, no km 3,25 da estrada de Calera de León."
+   },
+   "Dolmen de La Cabra": {
+    "nombre": "Dólmen de La Cabra",
+    "detalle": "Sepulcro de corredor com mais de 5000 anos, com uma mamoa de 22 metros, junto à Vereda de la Plata. Perto há outro megálito em La Cabra Baja e uma sepultura visigótica em Hoya Montuosa."
+   },
+   "Castillo de las Torres": {
+    "nombre": "Castillo de las Torres (castelo)",
+    "detalle": "Ruínas de uma casa-forte da Baixa Idade Média, com três torreões redondos, junto ao Camino de la Plata e ao limite com a Andaluzia."
+   },
+   "Las cinco cruces": {
+    "nombre": "As cinco cruzes",
+    "detalle": "A do Barrio, a do Puerto, a da Candelaria, a Gorda ou da Trocha e a do Llano. A do Barrio e a do Puerto reaproveitam pedras romanas."
+   },
+   "Pilares y abrevaderos": {
+    "nombre": "Pilares e bebedouros",
+    "detalle": "O Pilar de la Reverencia (1911), o Pilar Viejo, o mais antigo, e o Pilar del Llano, de granito."
+   },
+   "El Mojón": {
+    "detalle": "Desporto autóctone: duas equipas de seis lançam «rebolos», pedras arredondadas, para derrubar o mojón da equipa contrária, um cepo de madeira com cerca de 50 cm."
+   }
+  },
+  "fiestas": {
+   "Cabalgata de Reyes": {
+    "nombre": "Cavalgada dos Reis Magos (Cabalgata de Reyes)",
+    "cuando": "5 de janeiro"
+   },
+   "Matanza Tradicional del Cerdo Ibérico": {
+    "nombre": "Matança Tradicional do Porco Ibérico",
+    "cuando": "No inverno"
+   },
+   "Carnaval": {
+    "cuando": "Fevereiro ou março"
+   },
+   "Semana Santa": {
+    "cuando": "Março ou abril"
+   },
+   "Cruces de Mayo": {
+    "nombre": "Cruces de Mayo (Cruzes de Maio)",
+    "cuando": "Maio"
+   },
+   "Romería de San Isidro": {
+    "nombre": "Romaria de San Isidro",
+    "cuando": "A partir de 15 de maio, durante vários dias, na Pradera del Culebrín"
+   },
+   "Festival Jamón & Blues": {
+    "nombre": "Festival Jamón & Blues (Presunto & Blues)",
+    "cuando": "Finais de junho"
+   },
+   "Concurso de Cortadores de Jamón": {
+    "nombre": "Concurso de Cortadores de Presunto",
+    "cuando": "Agosto, na Plaza del Pueblo"
+   },
+   "Feria del Emigrante": {
+    "nombre": "Feria del Emigrante (feira dos emigrantes)",
+    "cuando": "Por volta de 15 de agosto"
+   },
+   "Romería de la Virgen de Tentudía": {
+    "nombre": "Romaria da Virgen de Tentudía",
+    "cuando": "8 de setembro"
+   },
+   "Feria y Fiestas y Día del Jamón": {
+    "nombre": "Feria y Fiestas y Día del Jamón (feira, festas e Dia do Presunto)",
+    "cuando": "Por volta de 8 de setembro; o Dia do Presunto, no segundo sábado. Festa de Interesse Turístico da Estremadura espanhola"
+   },
+   "Jornadas Micológicas": {
+    "nombre": "Jornadas Micológicas (jornadas dos cogumelos)",
+    "cuando": "Novembro"
+   }
+  },
+  "platos": [
+   "Jamón ibérico de Monesterio (presunto ibérico)",
+   "Migas (pão migado frito)",
+   "Revoltillos con morcilla lustre (ovos mexidos com morcela)",
+   "Patatas con espinazo (batatas com espinhaço de porco)",
+   "Tomatada (prato à base de tomate)",
+   "Gazpacho (sopa fria de tomate)",
+   "Sopones (um tipo de sopa)",
+   "Almorraque",
+   "Sopas de tomate con higos (sopa de tomate com figos)",
+   "Caldereta de venado (ensopado de veado)",
+   "Arroz con conejo o liebre (arroz de coelho ou de lebre)",
+   "Guarrito frito o en caldereta (leitão frito ou ensopado)"
+  ],
+  "dulces": [
+   "Gañotes (fritos)",
+   "Virutas",
+   "Flores (filhoses em forma de flor)",
+   "Roscos (roscas)"
+  ],
+  "personajes": {
+   "Eduardo Naranjo": {
+    "fechas": "nascido em 1944",
+    "texto": "Pintor do realismo mágico. Medalla de Extremadura (medalha da Estremadura espanhola) em 1991. O seu «Cerdo universal» está no Museo del Jamón."
+   },
+   "Eduardo Acosta": {
+    "texto": "Pintor e mestre de pintores, entre eles Eduardo Naranjo. Decorou a cúpula do Sagrario (capela do Santíssimo) da igreja nos anos quarenta."
+   },
+   "Isabel Márquez": {
+    "texto": "Natural de Monesterio, mãe do pintor Francisco de Zurbarán."
+   },
+   "Diego Muñoz Naranjo": {
+    "fechas": "século XVII",
+    "texto": "Habitante de Monesterio que acompanhou Zurbarán à Corte e trabalhou com ele no Salón de Reinos do Buen Retiro (1634)."
+   }
+  },
+  "rutas": {
+   "Camino de Santiago: El Real de la Jara – Monesterio": {
+    "nombre": "Caminho de Santiago: El Real de la Jara – Monesterio",
+    "resumen": "Etapa de 19,6 km pela Vía de la Plata: o Castillo de las Torres, o ribeiro do Culebrín, a ermida de San Isidro e a subida à Cruz del Puerto."
+   },
+   "Ruta de Tentudía": {
+    "nombre": "Percurso de Tentudía",
+    "resumen": "Do Museo del Jamón ao Mosteiro de Tentudía: 10 km, dificuldade média."
+   },
+   "Ruta Aguafría – Castillo": {
+    "nombre": "Percurso Aguafría – Castillo",
+    "resumen": "Ao alto de Aguafría (1079 m) e ao miradouro do Castillo: 12,5 km, dificuldade média."
+   },
+   "Ruta del Camping": {
+    "nombre": "Percurso do Parque de Campismo",
+    "resumen": "Pelo polígono industrial El Cerezo, a Cruz del Puerto e o ribeiro do Culebrín: 9,5 km, dificuldade baixa."
+   },
+   "Ruta de Montemolín": {
+    "nombre": "Percurso de Montemolín",
+    "resumen": "Trilho até à povoação vizinha. Ficha do percurso em PDF."
+   },
+   "Ruta de Calera de León": {
+    "nombre": "Percurso de Calera de León",
+    "resumen": "Trilho até à povoação vizinha. Ficha do percurso em PDF."
+   }
+  }
+ },
+ "creditos": {
+  "ayuntamiento": {
+   "titulo": "Casa da Câmara (página inicial)"
+  },
+  "calle-san-pedro": {
+   "titulo": "Rua com a torre de San Pedro, fotografia antiga",
+   "autor": "Fernando Garrorena Arcas (1901-1945)"
+  },
+  "pilar-reverencia": {
+   "titulo": "Pilar de la Reverencia"
+  },
+  "silo": {
+   "titulo": "O antigo silo, hoje Museu Micológico"
+  },
+  "paseo-extremadura": {
+   "titulo": "Paseo de Extremadura, a antiga N-630"
+  },
+  "monasterio-tentudia": {
+   "titulo": "Mosteiro de Tentudía (concelho de Calera de León)"
+  }
+ }
+}

@@ -1,0 +1,259 @@
+{
+ "_leeme": "«El pueblo» en inglés (pueblo-en.html). Lo lee scripts/aplicar.mjs: cada texto va emparejado por el nombre en castellano de municipio.json → pueblo. Si falta alguno, la página no se genera. Los nombres propios y los topónimos no se traducen.",
+ "nombre_idioma": "English",
+ "og_locale": "en_GB",
+ "pagina": {
+  "titulo": "The town",
+  "titulo_doc": "The town · Monesterio",
+  "entradilla": "In the Sierra Morena, on the Vía de la Plata and at the gateway to Extremadura: a land of dehesa pasture, Iberian ham and painters.",
+  "descripcion": "History, heritage, festivals and food of Monesterio (Badajoz, Spain)."
+ },
+ "cabecera_alt": "A cobbled street in Monesterio in the early 20th century, with neighbours at their doors and the tower of San Pedro in the background",
+ "ui": {
+  "idiomas": "Languages of this page",
+  "aviso_idioma": "The rest of the site is in Spanish.",
+  "que_ver": "What to see",
+  "para_visitar": "Places to visit",
+  "historia": "History",
+  "patrimonio": "Heritage",
+  "fiestas": "Festivals",
+  "gastronomia": "Food and drink",
+  "platos": "Dishes",
+  "dulces": "Sweets",
+  "para_beber": "To drink",
+  "personajes": "Notable people",
+  "rutas": "Walking routes",
+  "ver_la_ruta": "See the route (in Spanish)",
+  "comer_dormir": "Where to eat and stay",
+  "llamar_a": "Call",
+  "otra_web": ", opens another website",
+  "negocios_privados": "These are private businesses: the Town Council is not responsible for their details.",
+  "creditos": "Photo credits",
+  "ficha_foto": "photo page",
+  "foto": "Photo:",
+  "termino_titulo": "The municipality on a map",
+  "termino_pie": "Map of the municipality of {nombre}, drawn from OpenStreetMap data{fecha}.",
+  "termino_fecha": " as of {fecha}",
+  "termino_lugares": "Places on the map",
+  "termino_leer": "How to read it",
+  "clave_limite": "Municipal boundary (dashed line)",
+  "clave_casco": "The town (shaded area)",
+  "clave_carreteras": "Roads (thick line)",
+  "clave_rutas": "Routes (dotted line)",
+  "clave_puntos": "Numbered circle: a place in the list",
+  "clave_escala": "Scale: the bar at the bottom is",
+  "clave_recuadro": "Inset: the town enlarged; its bar is",
+  "clave_guia": "Thin line with a dot: the exact spot, when the number has been moved aside to keep it readable",
+  "fiesta_mayor": "Main festival",
+  "sin_fiestas": "No festivals this month",
+  "migas": "You are here",
+  "inicio": "Home (in Spanish)",
+  "en_esta_pagina": "On this page"
+ },
+ "pueblo": {
+  "historia": [
+   "The Vía de la Plata has run through Monesterio for two thousand years. In Roman times the town was called Curiga: this is attested by an inscription, now in the Centro de Interpretación de los Caminos Jacobeos (the Santiago pilgrim routes interpretation centre), and by the Roman columns, ashlar blocks and cornices on the façade of the church.",
+   "After the capture of Montemolín, around 1247, the area passed to the Order of Santiago, which held it until 1875. By the 14th century Monesterio was already an encomienda of the Order.",
+   "Around 1573 the Crown separated it from the Order and sold it to Seville. In 1632 the banker Octavio Centurión was named Marquis of Monesterio: the chequered band on the coat of arms comes from his lineage.",
+   "The town grew in the 19th and 20th centuries around the main road, with its inns. The dehesa of holm oaks and cork oaks, of about 16,000 hectares, and the Iberian pig industry are now its engine."
+  ],
+  "lugares": {
+   "Iglesia de San Pedro Apóstol": {
+    "nombre": "Church of San Pedro Apóstol",
+    "texto": "From the 15th century, with Roman remains on the façade, an altarpiece of 1639 and the processional cross by Francisco de Alfaro (1597).",
+    "alt": "An old black-and-white photograph: a cobbled street with the church tower at the end"
+   },
+   "Museo del Jamón": {
+    "nombre": "Ham Museum (Museo del Jamón)",
+    "texto": "Opened in 2012 at the entrance to the town from Seville. It tells the story of the dehesa, the Iberian pig and the traditional pig slaughter (matanza); it ends in a courtyard with the dehesa in miniature."
+   },
+   "Museo Micológico": {
+    "nombre": "Mycology Museum (Museo Micológico)",
+    "texto": "The first in Extremadura, in the old grain silo: three rooms on the fungi and mushrooms of Tentudía.",
+    "alt": "The white tower of the old silo among palm trees, at sunset"
+   },
+   "Pilar de la Reverencia": {
+    "texto": "A granite drinking trough from 1911, right in the middle of the main road through the town. A witness to a century of travellers.",
+    "alt": "A granite drinking trough topped with a pyramid, among white houses"
+   },
+   "Paseo de Extremadura": {
+    "texto": "The old N-630, the road of the Vía de la Plata, which splits the town in two and brings together shops and hostels.",
+    "alt": "The main road with whitewashed houses on both sides and a stormy sky"
+   },
+   "Cocedero de Altramuces de La Cabra": {
+    "nombre": "Cocedero de Altramuces de La Cabra (lupin-cooking site)",
+    "texto": "A Site of Cultural Interest since 2012: vegetable garden, water wheel, ponds and a lupin-cooking site from the early 20th century, on the Calera de León road."
+   },
+   "Monasterio de Tentudía": {
+    "nombre": "Monastery of Tentudía",
+    "texto": "In the municipality of Calera de León, 10 km along the Ruta de Tentudía. The Virgen de Tentudía is the patron saint of Monesterio.",
+    "alt": "A battlemented stone monastery on a meadow, under a blue sky"
+   }
+  },
+  "patrimonio": {
+   "Iglesia de San Pedro Apóstol": {
+    "nombre": "Church of San Pedro Apóstol",
+    "detalle": "First mentioned in the 15th century. Rib vaulting over the high altar, a Mannerist altarpiece by Jerónimo Velázquez (1639), an 18th-century Rosary chapel and paintings by Eduardo Acosta. Open to visit during Mass times."
+   },
+   "Ermita de la Virgen de Tentudía": {
+    "nombre": "Chapel of the Virgen de Tentudía",
+    "detalle": "In a former warehouse of the La Cruz del Pilar flour mill (1906); a place of worship since the 1960s, restored in 1999. Open to visit during Mass times."
+   },
+   "Cocedero de Altramuces de La Cabra": {
+    "nombre": "Cocedero de Altramuces de La Cabra (lupin-cooking site)",
+    "detalle": "A Site of Cultural Interest and Place of Ethnological Interest (Decree 68/2012). Vegetable garden, water wheel, channel, ponds, lupin-cooking site and gardener's house, at km 3.25 of the Calera de León road."
+   },
+   "Dolmen de La Cabra": {
+    "nombre": "La Cabra dolmen",
+    "detalle": "A passage grave more than 5,000 years old, with a mound 22 metres across, beside the Vereda de la Plata. Nearby are another megalith at La Cabra Baja and a Visigothic tomb at Hoya Montuosa."
+   },
+   "Castillo de las Torres": {
+    "detalle": "The ruins of a late medieval fortified house with three round towers, beside the Camino de la Plata and the border with Andalusia."
+   },
+   "Las cinco cruces": {
+    "nombre": "The five crosses",
+    "detalle": "Those of El Barrio, El Puerto, La Candelaria, the Gorda or de la Trocha, and El Llano. Those of El Barrio and El Puerto reuse Roman stones."
+   },
+   "Pilares y abrevaderos": {
+    "nombre": "Pilares (drinking troughs)",
+    "detalle": "The Pilar de la Reverencia (1911), the Pilar Viejo, the oldest, and the granite Pilar del Llano."
+   },
+   "El Mojón": {
+    "detalle": "A native sport: two teams of six throw «rebolos», rounded stones, to knock down the opposing team's mojón, a wooden block about 50 cm tall."
+   }
+  },
+  "fiestas": {
+   "Cabalgata de Reyes": {
+    "nombre": "Three Kings Parade (Cabalgata de Reyes)",
+    "cuando": "5 January"
+   },
+   "Matanza Tradicional del Cerdo Ibérico": {
+    "nombre": "Traditional Iberian Pig Slaughter (Matanza)",
+    "cuando": "In winter"
+   },
+   "Carnaval": {
+    "nombre": "Carnival",
+    "cuando": "February or March"
+   },
+   "Semana Santa": {
+    "nombre": "Holy Week",
+    "cuando": "March or April"
+   },
+   "Cruces de Mayo": {
+    "nombre": "Cruces de Mayo (May Crosses)",
+    "cuando": "May"
+   },
+   "Romería de San Isidro": {
+    "nombre": "Pilgrimage of San Isidro (Romería de San Isidro)",
+    "cuando": "From 15 May, for several days, in the Pradera del Culebrín"
+   },
+   "Festival Jamón & Blues": {
+    "nombre": "Jamón & Blues Festival",
+    "cuando": "Late June"
+   },
+   "Concurso de Cortadores de Jamón": {
+    "nombre": "Ham-Carving Competition",
+    "cuando": "August, in the Plaza del Pueblo"
+   },
+   "Feria del Emigrante": {
+    "nombre": "Feria del Emigrante (fair for those who left the town)",
+    "cuando": "Around 15 August"
+   },
+   "Romería de la Virgen de Tentudía": {
+    "nombre": "Pilgrimage of the Virgen de Tentudía",
+    "cuando": "8 September"
+   },
+   "Feria y Fiestas y Día del Jamón": {
+    "nombre": "Fair, Festivals and Ham Day (Feria y Fiestas y Día del Jamón)",
+    "cuando": "Around 8 September; Ham Day is on the second Saturday. Festival of Tourist Interest in Extremadura"
+   },
+   "Jornadas Micológicas": {
+    "nombre": "Mushroom Days (Jornadas Micológicas)",
+    "cuando": "November"
+   }
+  },
+  "platos": [
+   "Monesterio Iberian ham (jamón ibérico)",
+   "Migas (fried breadcrumbs)",
+   "Revoltillos con morcilla lustre (scrambled eggs with blood sausage)",
+   "Patatas con espinazo (potatoes with pork backbone)",
+   "Tomatada (tomato-based dish)",
+   "Gazpacho (cold tomato soup)",
+   "Sopones (a kind of soup)",
+   "Almorraque",
+   "Sopas de tomate con higos (tomato soup with figs)",
+   "Caldereta de venado (venison stew)",
+   "Arroz con conejo o liebre (rice with rabbit or hare)",
+   "Guarrito frito o en caldereta (young pig, fried or stewed)"
+  ],
+  "dulces": [
+   "Gañotes (fried pastries)",
+   "Virutas",
+   "Flores (fried flower-shaped pastries)",
+   "Roscos (ring-shaped sweets)"
+  ],
+  "personajes": {
+   "Eduardo Naranjo": {
+    "fechas": "born 1944",
+    "texto": "A painter of magic realism. Medalla de Extremadura (Extremadura Medal) in 1991. His «Cerdo universal» is in the Museo del Jamón."
+   },
+   "Eduardo Acosta": {
+    "texto": "A painter and teacher of painters, among them Eduardo Naranjo. He decorated the dome of the church's Sagrario (tabernacle chapel) in the 1940s."
+   },
+   "Isabel Márquez": {
+    "texto": "A native of Monesterio and the mother of the painter Francisco de Zurbarán."
+   },
+   "Diego Muñoz Naranjo": {
+    "fechas": "17th century",
+    "texto": "A resident of Monesterio who accompanied Zurbarán to the Court and worked with him in the Salón de Reinos of the Buen Retiro (1634)."
+   }
+  },
+  "rutas": {
+   "Camino de Santiago: El Real de la Jara – Monesterio": {
+    "nombre": "Camino de Santiago: El Real de la Jara to Monesterio",
+    "resumen": "A 19.6 km stage along the Vía de la Plata: the Castillo de las Torres, the Culebrín stream, the chapel of San Isidro and the climb to the Cruz del Puerto."
+   },
+   "Ruta de Tentudía": {
+    "nombre": "Tentudía route",
+    "resumen": "From the Museo del Jamón to the Monastery of Tentudía: 10 km, medium difficulty."
+   },
+   "Ruta Aguafría – Castillo": {
+    "nombre": "Aguafría – Castillo route",
+    "resumen": "To the Aguafría summit (1,079 m) and the Castillo viewpoint: 12.5 km, medium difficulty."
+   },
+   "Ruta del Camping": {
+    "nombre": "Campsite route",
+    "resumen": "Past the El Cerezo industrial estate, the Cruz del Puerto and the Culebrín stream: 9.5 km, low difficulty."
+   },
+   "Ruta de Montemolín": {
+    "nombre": "Route to Montemolín",
+    "resumen": "A path to the neighbouring town. Route sheet as a PDF."
+   },
+   "Ruta de Calera de León": {
+    "nombre": "Route to Calera de León",
+    "resumen": "A path to the neighbouring town. Route sheet as a PDF."
+   }
+  }
+ },
+ "creditos": {
+  "ayuntamiento": {
+   "titulo": "Town Hall (home page)"
+  },
+  "calle-san-pedro": {
+   "titulo": "Street with the tower of San Pedro, old photograph",
+   "autor": "Fernando Garrorena Arcas (1901-1945)"
+  },
+  "pilar-reverencia": {
+   "titulo": "Pilar de la Reverencia"
+  },
+  "silo": {
+   "titulo": "The old silo, now the Mycology Museum"
+  },
+  "paseo-extremadura": {
+   "titulo": "Paseo de Extremadura, the old N-630"
+  },
+  "monasterio-tentudia": {
+   "titulo": "Monastery of Tentudía (municipality of Calera de León)"
+  }
+ }
+}

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Monesterio//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dia-turismo-tentudia@monesterio.agenda
+DTSTAMP:20261005T080739Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Día Mundial del Turismo de la Diputación: «De la cueva a las est
+ rellas\, el viaje vertical»
+LOCATION:Comarca de Tentudía\, Monesterio
+DESCRIPTION:Actividad gratuita.
+URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
+ evento-dia-turismo-tentudia
+END:VEVENT
+END:VCALENDAR

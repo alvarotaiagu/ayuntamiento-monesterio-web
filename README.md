@@ -151,3 +151,24 @@ La receta es la de [RESKIN.md](RESKIN.md) §9:
 2. `python scripts/quitar_mandos.py --comprobar` y después `python scripts/quitar_mandos.py`;
 3. `"propuesta": false` e `"indexar": true` solo cuando sea la web oficial en su dominio;
 4. `node scripts/aplicar.mjs && node scripts/verificar.mjs`.
+
+## v3 (rama `v3`, 2026-10-05)
+
+Pasada a la v3 de la plantilla (v3 + v3b + v3c) sin tocar sus datos: código superpuesto, `municipio.json`, `marca/`, `media/` y `contenido/` de Monesterio conservados. `master` sigue en la v1.
+
+Añadido para Monesterio:
+- `cifras` (INE 4.245, 322,4 km², 755 m, 1248) con su fuente; `ine`, `incidencias` («Avisar de un problema», al correo del Ayuntamiento), «Escríbanos» (sale solo), `transparencia` (sin portal: apartados con sus huecos «Pendiente»), `farmacias.oficial` y los `pasos` de Monesterio Informa.
+- `propuesta_web` (`propuesta.html`, sin enlazar): 5 problemas comprobables de ERRORES.md, captura real de su portada del 5-10-2026 (`assets/web-actual.jpg`) y mi contacto. **Falta el `[PRECIO]`** (solo se ve con `?revision`).
+- `contenido/facil.json` (lectura fácil): volante, escribir al Ayuntamiento, licencia de obra, Escuela Infantil e incidencias. Pendiente de validar con personas usuarias.
+- `contenido/pueblo.en.json` y `pueblo.pt.json`: «El pueblo» en inglés y portugués.
+- Plazo del IAE (16-11) con cuenta atrás; arco de portada con 3 fotos (Casa Consistorial, silo, Tentudía); cabecera de «El pueblo» con la calle de San Pedro; fotos igualadas (`media/originales/`).
+- Plano del pie (`marca/plano.*`, desde el elemento de OSM way/549797280, el Ayuntamiento) y mapa del término (`marca/termino.*`, relación 342331): solo 4 de 13 lugares están en OSM con nombre reconocible (Iglesia, Pilar, Ermita de Tentudía, Castillo de las Torres). Los demás se pueden fijar con `node scripts/termino.mjs --lugar "Nombre=node/ID"`.
+
+`municipio.json` **ya no se regenera** con `../ayuntamiento-monesterio-bocetos/_scripts/municipio.mjs` (pisaría lo de la v3); el script que añadió los campos de la v3 está en `../ayuntamiento-monesterio-bocetos/_scripts/v3-datos.py`.
+
+Pendiente de la v3:
+- [ ] **Perfil del pueblo en el pie**: sale el genérico. Para dibujar el de Monesterio hace falta una foto actual de la iglesia de San Pedro (la que hay es de hace un siglo).
+- [ ] Confirmar el correo de incidencias y «Escríbanos» (`ayuntamiento@monesterio.es`).
+- [ ] Fecha de los plenos: no hay pleno próximo en los datos (el último fue el 3-9-2026); el tablón ocupa todo el ancho.
+- [ ] Autorización para leer el tablón (`tablon_autorizado`), y con ella la tarea diaria de `.github/workflows/actualizar.yml`.
+- [ ] Crear la hoja y los formularios (`plantillas-hoja/crear-hoja.gs`, `PUBLICAR.md`) y rellenar `hoja.id`.

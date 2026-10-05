@@ -9,7 +9,8 @@
       "texto": "La activa el 112 de Extremadura en toda la región. En caso de emergencia, llame al 112.",
       "urgente": true,
       "caduca": "2026-10-03",
-      "enlace": "https://www.bandomovil.com/monesterio/1654102/0"
+      "enlace": "https://www.bandomovil.com/monesterio/1654102/0",
+      "titulo_corto": "Alerta amarilla por lluvias y tormentas el sábado 3"
     },
     {
       "id": "asfaltado-octubre",
@@ -33,7 +34,8 @@
       "tema": "Impuestos",
       "titulo": "Impuesto de Actividades Económicas de 2026: se paga hasta el 16 de noviembre",
       "texto": "El plazo de pago voluntario lo gestiona el Organismo Autónomo de Recaudación (OAR) de la Diputación de Badajoz.",
-      "enlace": "https://monesterio.es/ver.php?pag=11231"
+      "enlace": "https://monesterio.es/ver.php?pag=11231",
+      "plazo_fin": "2026-11-16"
     },
     {
       "id": "festivos-locales-2027",
