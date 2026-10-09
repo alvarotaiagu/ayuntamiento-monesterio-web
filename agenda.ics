@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fiesta-cabalgata-de-reyes-2026@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260106
 SUMMARY:Cabalgata de Reyes
@@ -35,7 +35,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-romeria-de-san-isidro-2026@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Romería de San Isidro
@@ -46,7 +46,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:pleno-ordinario-3-septiembre@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;TZID=Europe/Madrid:20260903T203000
 DTEND;TZID=Europe/Madrid:20260903T213000
 SUMMARY:Pleno ordinario
@@ -57,7 +57,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:feria-y-fiestas-2026@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Feria y Fiestas\, del 8 al 13 de septiembre
@@ -67,7 +67,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-romeria-de-la-virgen-de-tentudia-2026@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Romería de la Virgen de Tentudía
@@ -76,7 +76,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-del-jamon-2026@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:XXXV Día del Jamón
@@ -88,7 +88,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:di-jazz-2026@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;TZID=Europe/Madrid:20261003T203000
 DTEND;TZID=Europe/Madrid:20261003T213000
 SUMMARY:IX Festival de Jazz Itinerante «Di Jazz»: Javier Pérez Quartet
@@ -99,7 +99,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:viaje-feria-zafra@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;TZID=Europe/Madrid:20261005T120000
 DTEND;TZID=Europe/Madrid:20261005T130000
 SUMMARY:Viaje a la Feria Internacional Ganadera de Zafra
@@ -111,7 +111,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:charla-fraudes@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;TZID=Europe/Madrid:20261009T110000
 DTEND;TZID=Europe/Madrid:20261009T120000
 SUMMARY:Charla sobre prevención de fraudes\, por el Día Internacional de 
@@ -122,7 +122,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-mancomunidad-2026@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:XLVII Día de la Mancomunidad y Comarca de Tentudía
@@ -134,7 +134,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:documental-pan-memoria@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;TZID=Europe/Madrid:20261015T170000
 DTEND;TZID=Europe/Madrid:20261015T180000
 SUMMARY:Convivencia familiar: documental «El pan de la memoria»
@@ -144,7 +144,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:marcha-cancer-mama-2026@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;TZID=Europe/Madrid:20261018T113000
 DTEND;TZID=Europe/Madrid:20261018T123000
 SUMMARY:VIII Marcha Solidaria contra el Cáncer de Mama
@@ -156,7 +156,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:carrera-solidaria-sevilla@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Viaje a la carrera solidaria «Tus kilómetros nos dan vida»
@@ -169,7 +169,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-turismo-tentudia@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Día Mundial del Turismo de la Diputación: «De la cueva a las est
@@ -181,7 +181,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-cabalgata-de-reyes-2027@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Cabalgata de Reyes
@@ -190,7 +190,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-romeria-de-san-isidro-2027@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Romería de San Isidro
@@ -201,7 +201,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-monesterio-web/agenda.html#
 END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-romeria-de-la-virgen-de-tentudia-2027@monesterio.agenda
-DTSTAMP:20261008T120650Z
+DTSTAMP:20261009T115831Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
 SUMMARY:Romería de la Virgen de Tentudía
