@@ -22,7 +22,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:charla-fraudes@monesterio.agenda
-DTSTAMP:20261009T115831Z
+DTSTAMP:20261010T111501Z
 DTSTART;TZID=Europe/Madrid:20261009T110000
 DTEND;TZID=Europe/Madrid:20261009T120000
 SUMMARY:Charla sobre prevención de fraudes\, por el Día Internacional de 
