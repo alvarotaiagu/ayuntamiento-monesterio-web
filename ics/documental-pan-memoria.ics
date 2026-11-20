@@ -22,7 +22,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:documental-pan-memoria@monesterio.agenda
-DTSTAMP:20261119T143107Z
+DTSTAMP:20261120T140942Z
 DTSTART;TZID=Europe/Madrid:20261015T170000
 DTEND;TZID=Europe/Madrid:20261015T180000
 SUMMARY:Convivencia familiar: documental «El pan de la memoria»
